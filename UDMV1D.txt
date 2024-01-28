@@ -1,0 +1,3337 @@
+[CustomCards]
+	[    {
+	        "name": "CW01 — Roc of the Valley",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Elemental Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW01 — Roc of the Valley.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW02 — Ardent Magus",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW02 — Ardent Magus.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW03 — Plaza Enforcer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW03 — Plaza Enforcer.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW04 — Ward Hound",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW04 — Ward Hound.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW06 — Awakened Initiate",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Angel Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW06 — Awakened Initiate.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW08 — Chapel Persecutor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW08 — Chapel Persecutor.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW07 — Secure the Perimeter",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW07 — Secure the Perimeter.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW05 — Aurterran Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW05 — Aurterran Invoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW09 — Chaplain of Resolve",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Angel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW09 — Chaplain of Resolve.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW10 — Balmrunner",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW10 — Balmrunner.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW11 — Hinterland Courser",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Unicorn ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW11 — Hinterland Courser.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW12 — Prior Knowledge",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW12 — Prior Knowledge.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW13 — Templar's Finale",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW13 — Templar's Finale.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW14 — March into History",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW14 — March into History.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW15 — Reflected Resolve",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW15 — Reflected Resolve.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW16 — Holding Spell",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW16 — Holding Spell.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW18 — Argent Unmaking",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW18 — Argent Unmaking.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW17 — Detain",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW17 — Detain.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU01 — Drake Runt",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU01 — Drake Runt.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU02 — Flow Seeress",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU02 — Flow Seeress.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU06 — Eager Disciple",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU06 — Eager Disciple.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU05 — Ormuri Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU05 — Ormuri Invoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU03 — Mortal Conjurant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU03 — Mortal Conjurant.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU07 — Winged Aegis",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elemental Turtle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU07 — Winged Aegis.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU08 — Coastal Lurker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Fish Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU08 — Coastal Lurker.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU09 — Iridescent Drake",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Drake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU09 — Iridescent Drake.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU11 — Mage's Warding",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU11 — Mage's Warding.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU12 — Arcane Consultation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU12 — Arcane Consultation.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU13 — Space Between",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU13 — Space Between.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU14 — Visionary Research",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU14 — Visionary Research.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU15 — Thaumaturge's Gambit",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU15 — Thaumaturge's Gambit.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU16 — High Alarum",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU16 — High Alarum.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU17 — Focused Study",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU17 — Focused Study.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB03 — Cloister Keepers",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB03 — Cloister Keepers.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB04 — Castoff Wretch",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB04 — Castoff Wretch.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB05 — Vourgan Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB05 — Vourgan Invoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB06 — Reckless Assailant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB06 — Reckless Assailant.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB16 — Spellbound Familiar",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB16 — Spellbound Familiar.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB08 — Vis Manipulator",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB08 — Vis Manipulator.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB09 — Duskwold Warden",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB09 — Duskwold Warden.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB10 — Soulforged Rager",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB10 — Soulforged Rager.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB14 — Vis Rend",
+	        "rarity": "common",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB14 — Vis Rend.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB15 — Vile Renewal",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB15 — Vile Renewal.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB07 — Mire Drowner",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Bat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB07 — Mire Drowner.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB17 — Tools of the Trade",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB17 — Tools of the Trade.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR01 — Renegade Technician",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR01 — Renegade Technician.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR02 — Charged Runner",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR02 — Charged Runner.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR07 — Igneous Catalyst",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR07 — Igneous Catalyst.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR04 — Dune Stinger",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR04 — Dune Stinger.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR03 — Molten Lavacat",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR03 — Molten Lavacat.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR08 — Mageblade Recruit",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR08 — Mageblade Recruit.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR09 — Procula Marshal",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR09 — Procula Marshal.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR10 — Flamewheel Ritualist",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR10 — Flamewheel Ritualist.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR11 — Bring Down",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR11 — Bring Down.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR12 — Rev Up",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR12 — Rev Up.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR13 — Bolt of Inspiration",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR13 — Bolt of Inspiration.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR14 — Seismic Stroke",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR14 — Seismic Stroke.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR15 — Stream of Consciousness",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR15 — Stream of Consciousness.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR16 — Scorching Ray",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR16 — Scorching Ray.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG01 — Novite Cataloguer",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG01 — Novite Cataloguer.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG02 — Vital Keeper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG02 — Vital Keeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG09 — Migratory Striders",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG09 — Migratory Striders.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG04 — Writhing Rafflesia",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG04 — Writhing Rafflesia.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG06 — Grassy Lynxes",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Plant Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG06 — Grassy Lynxes.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG07 — Preserve Hound",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG07 — Preserve Hound.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG08 — Chronicler of Change",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG08 — Chronicler of Change.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG10 — Endangered Pronghorn",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG10 — Endangered Pronghorn.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG03 — Enlisted Warden",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Ranger ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG03 — Enlisted Warden.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG11 — Canopy Grappler",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG11 — Canopy Grappler.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG12 — Circle of Strife",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG12 — Circle of Strife.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG13 — Regenerative Sinew",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG13 — Regenerative Sinew.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG14 — Collective Wisdom",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG14 — Collective Wisdom.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG15 — Nature's Resurgence",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG15 — Nature's Resurgence.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG16 — Disarming Mist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG16 — Disarming Mist.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG17 — Explosive Sowing",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG17 — Explosive Sowing.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG18 — Sylvan Rebuttal",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG18 — Sylvan Rebuttal.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW03 — Sunlit Strength",
+	        "mana_cost": "{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW03 — Sunlit Strength.jpg"
+	        },
+	        "printed names": {
+	            "en": "UW03 — Sunlit Strength"
+	        },
+	        "back": {
+	            "name": "Sunlit Hills",
+	            "printed_names": {
+	                "en": "Sunlit Hills"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Sunlit Hills.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UW05 — Autarch's Guard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW05 — Autarch's Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW06 — Dawn's Pride",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW06 — Dawn's Pride.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW07 — Chaplain of Change",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW07 — Chaplain of Change.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW09 — Regal Sentinel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Chimera ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW09 — Regal Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW08 — Defiant Hexblade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW08 — Defiant Hexblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW10 — Lightwarden",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW10 — Lightwarden.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW11 — Radiant Marshal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW11 — Radiant Marshal.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW12 — Angelify",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW12 — Angelify.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW13 — Tangibile Virtue",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW13 — Tangibile Virtue.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU03 — Rhimeland Expulsion",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU03 — Rhimeland Expulsion.jpg"
+	        },
+	        "printed names": {
+	            "en": "UU03 — Rhimeland Expulsion"
+	        },
+	        "back": {
+	            "name": "Rhimeland Outpost",
+	            "printed_names": {
+	                "en": "Rhimeland Outpost"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Rhimeland Outpost.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UU05 — Murkminder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU05 — Murkminder.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU06 — Arcaniform Conduit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU06 — Arcaniform Conduit.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU07 — Illusory Egotist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU07 — Illusory Egotist.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU08 — Grandiose Conjurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU08 — Grandiose Conjurer.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU09 — Glacial Grappler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU09 — Glacial Grappler.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU12 — Capture Wave",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU12 — Capture Wave.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB02 — Corpater Ritual",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB02 — Corpater Ritual.jpg"
+	        },
+	        "printed names": {
+	            "en": "UB02 — Corpater Ritual"
+	        },
+	        "back": {
+	            "name": "Corpater Lowland",
+	            "printed_names": {
+	                "en": "Corpater Lowland"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Corpater Lowland.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UB05 — Vis Dregs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Reflection ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB05 — Vis Dregs.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB06 — Violet Persuader",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB06 — Violet Persuader.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB07 — Revenant Agent",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB07 — Revenant Agent.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB08 — Parlour Guard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB08 — Parlour Guard.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB09 — Malignant Castoffs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{B}",
+	        "type": "Creature — Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB09 — Malignant Castoffs.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB10 — Hulking Spellfist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB10 — Hulking Spellfist.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB11 — Cut Out",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB11 — Cut Out.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB12 — Back for More",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB12 — Back for More.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB13 — Weight of Expectations",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB13 — Weight of Expectations.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR05 — Rustbucket Brawler",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR05 — Rustbucket Brawler.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR07 — Thunderzoa",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Jellyfish ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR07 — Thunderzoa.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR08 — Lava Mongrel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR08 — Lava Mongrel.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR09 — Catalytic Gorger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR09 — Catalytic Gorger.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR10 — Enthusiastic Chemister",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR10 — Enthusiastic Chemister.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR11 — Big Score",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR11 — Big Score.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR12 — Revelatory Ignition",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR12 — Revelatory Ignition.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR13 — Identity Crisis",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR13 — Identity Crisis.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG05 — Medium of Might",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG05 — Medium of Might.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG06 — Memoir Collector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG06 — Memoir Collector.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG07 — Celeritous Agent",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG07 — Celeritous Agent.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG08 — Daring Infiltrator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG08 — Daring Infiltrator.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG09 — Tangled Harbinger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG09 — Tangled Harbinger.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG10 — Borderpine Guardian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG10 — Borderpine Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG11 — Deadwood Awakener",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG11 — Deadwood Awakener.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG12 — Colossal Majesty",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG12 — Colossal Majesty.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG13 — Sylvan Inheritance",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG13 — Sylvan Inheritance.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW02 — Virtued Lancer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW02 — Virtued Lancer.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW06 — Witness of Ideals",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW06 — Witness of Ideals.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW04 — Liberi, Angelic Paragon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Legendary Creature — Human Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW04 — Liberi, Angelic Paragon.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW03 — Throne's Influence",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW03 — Throne's Influence.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW05 — Angelic Responder",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Human Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW05 — Angelic Responder.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW07 — Rapid Deployment",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW07 — Rapid Deployment.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW08 — Under Their Wings",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW08 — Under Their Wings.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW09 — Ego Vault",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW09 — Ego Vault.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW10 — Envisioned Ascension",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW10 — Envisioned Ascension.jpg"
+	        }
+	    },
+	    {
+	        "name": "RW11 — Helis's Theorem",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW11 — Helis's Theorem.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU01 — Reflecting Sigil",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU01 — Reflecting Sigil.jpg"
+	        },
+	        "printed names": {
+	            "en": "RU01 — Reflecting Sigil"
+	        },
+	        "back": {
+	            "name": "Reflecting Waterway",
+	            "printed_names": {
+	                "en": "Reflecting Waterway"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Reflecting Waterway.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RU03 — Detlav, Arcanamedician",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU03 — Detlav, Arcanamedician.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR02 — Thaumtech Runner",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR02 — Thaumtech Runner.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU04 — Revelation Seer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU04 — Revelation Seer.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU05 — Sage of Dismissal",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU05 — Sage of Dismissal.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU06 — Roiling Nimbus",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}{U}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU06 — Roiling Nimbus.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU07 — Modernity",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU07 — Modernity.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU08 — Borrowed Epiphany",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU08 — Borrowed Epiphany.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU09 — Emergent Behavior",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU09 — Emergent Behavior.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU10 — Disallow",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU10 — Disallow.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU11 — Murai's Theorem",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU11 — Murai's Theorem.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB02 — Hexkeeper",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB02 — Hexkeeper.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB03 — Slayer of Wretches",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB03 — Slayer of Wretches.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB05 — Haukin, Vourgan Archmage",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Legendary Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB05 — Haukin, Vourgan Archmage.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB06 — Flight of Torments",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB06 — Flight of Torments.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB07 — Caustic Indignance",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB07 — Caustic Indignance.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB08 — Stygian Edict",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB08 — Stygian Edict.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB09 — Evocator's Rites",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB09 — Evocator's Rites.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB11 — Odisa's Theorem",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB11 — Odisa's Theorem.jpg"
+	        }
+	    },
+	    {
+	        "name": "RU02 — Memory Bearer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU02 — Memory Bearer.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR03 — Futurist Partisan",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR03 — Futurist Partisan.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR06 — Assault Wyrm",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR06 — Assault Wyrm.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR07 — Manic Renewal",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR07 — Manic Renewal.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR09 — Declare Hostilities",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR09 — Declare Hostilities.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR08 — Bring to Bare",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR08 — Bring to Bare.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR10 — Blazing Plume",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR10 — Blazing Plume.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR11 — Enos's Theorem",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR11 — Enos's Theorem.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG01 — Selective Nostalgia",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG01 — Selective Nostalgia.jpg"
+	        },
+	        "printed names": {
+	            "en": "RG01 — Selective Nostalgia"
+	        },
+	        "back": {
+	            "name": "Selective Archive",
+	            "printed_names": {
+	                "en": "Selective Archive"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Selective Archive.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RG02 — Mana Tender",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG02 — Mana Tender.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG03 — Insurgent Duelist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG03 — Insurgent Duelist.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG04 — Azani, Feram Idealist",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Legendary Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG04 — Azani, Feram Idealist.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG05 — Seer of Allegiances",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG05 — Seer of Allegiances.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG06 — Veiled Intercessor",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG06 — Veiled Intercessor.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG07 — Deadwood Titan",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG07 — Deadwood Titan.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG08 — Karst Wurm",
+	        "rarity": "rare",
+	        "mana_cost": "{6}{G}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG08 — Karst Wurm.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG09 — Collective Self",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG09 — Collective Self.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG10 — Greater Potential",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG10 — Greater Potential.jpg"
+	        }
+	    },
+	    {
+	        "name": "RG11 — Wormwood's Theorem",
+	        "rarity": "rare",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG11 — Wormwood's Theorem.jpg"
+	        }
+	    },
+	    {
+	        "name": "MW01 — Enforce Ideal",
+	        "mana_cost": "{4}{W}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MW01 — Enforce Ideal.jpg"
+	        },
+	        "printed names": {
+	            "en": "MW01 — Enforce Ideal"
+	        },
+	        "back": {
+	            "name": "Urban Ideal",
+	            "printed_names": {
+	                "en": "Urban Ideal"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Urban Ideal.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "MW02 — Winged Adjudicator",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{W}{W}",
+	        "type": "Creature — Human Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MW02 — Winged Adjudicator.jpg"
+	        }
+	    },
+	    {
+	        "name": "MW03 — Agrarian Rollout",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MW03 — Agrarian Rollout.jpg"
+	        }
+	    },
+	    {
+	        "name": "MU02 — Cloudgully",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Whale ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MU02 — Cloudgully.jpg"
+	        }
+	    },
+	    {
+	        "name": "MU03 — Roundabout",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MU03 — Roundabout.jpg"
+	        }
+	    },
+	    {
+	        "name": "MB01 — Everlasting Umbrage",
+	        "mana_cost": "{X}{X}{B}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MB01 — Everlasting Umbrage.jpg"
+	        },
+	        "printed names": {
+	            "en": "MB01 — Everlasting Umbrage"
+	        },
+	        "back": {
+	            "name": "Burbling Umbrage",
+	            "printed_names": {
+	                "en": "Burbling Umbrage"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Burbling Umbrage.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "MB03 — Herald of Anguish",
+	        "rarity": "mythic",
+	        "mana_cost": "{5}{B}{B}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MB03 — Herald of Anguish.jpg"
+	        }
+	    },
+	    {
+	        "name": "MR01 — Thundering Cataclysm",
+	        "mana_cost": "{4}{R}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MR01 — Thundering Cataclysm.jpg"
+	        },
+	        "printed names": {
+	            "en": "MR01 — Thundering Cataclysm"
+	        },
+	        "back": {
+	            "name": "Castoff Cataclysm",
+	            "printed_names": {
+	                "en": "Castoff Cataclysm"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Castoff Cataclysm.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "MR02 — Crackling Stormbird",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MR02 — Crackling Stormbird.jpg"
+	        }
+	    },
+	    {
+	        "name": "MR03 — Forced Feedback",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MR03 — Forced Feedback.jpg"
+	        }
+	    },
+	    {
+	        "name": "MG01 — Disturb the Weald",
+	        "mana_cost": "{X}{G}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MG01 — Disturb the Weald.jpg"
+	        },
+	        "printed names": {
+	            "en": "MG01 — Disturb the Weald"
+	        },
+	        "back": {
+	            "name": "Slumbering Weald",
+	            "printed_names": {
+	                "en": "Slumbering Weald"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Slumbering Weald.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "MG02 — Crucible Greatwurm",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}{G}{G}{G}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MG02 — Crucible Greatwurm.jpg"
+	        }
+	    },
+	    {
+	        "name": "MG03 — Rosewind Memorialist",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MG03 — Rosewind Memorialist.jpg"
+	        }
+	    },
+	    {
+	        "name": "RM01 — Brilliant Insight",
+	        "mana_cost": "{W}{W}{W}{U}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM01 — Brilliant Insight.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM01 — Brilliant Insight"
+	        },
+	        "back": {
+	            "name": "Brilliant Cove",
+	            "printed_names": {
+	                "en": "Brilliant Cove"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Brilliant Cove.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM02 — Cathartic Squall",
+	        "mana_cost": "{U}{U}{U}{B}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM02 — Cathartic Squall.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM02 — Cathartic Squall"
+	        },
+	        "back": {
+	            "name": "Cathartic Marsh",
+	            "printed_names": {
+	                "en": "Cathartic Marsh"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Cathartic Marsh.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM03 — Smuggler's Secrets",
+	        "mana_cost": "{B}{B}{B}{R}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM03 — Smuggler's Secrets.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM03 — Smuggler's Secrets"
+	        },
+	        "back": {
+	            "name": "Smuggler's Hideaway",
+	            "printed_names": {
+	                "en": "Smuggler's Hideaway"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Smuggler's Hideaway.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM04 — Vibrant Chord",
+	        "mana_cost": "{R}{R}{R}{G}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM04 — Vibrant Chord.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM04 — Vibrant Chord"
+	        },
+	        "back": {
+	            "name": "Vibrant Cliffs",
+	            "printed_names": {
+	                "en": "Vibrant Cliffs"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Vibrant Cliffs.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM05 — Bountiful Vigil",
+	        "mana_cost": "{G}{G}{G}{W}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM05 — Bountiful Vigil.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM05 — Bountiful Vigil"
+	        },
+	        "back": {
+	            "name": "Bountiful Canopy",
+	            "printed_names": {
+	                "en": "Bountiful Canopy"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Bountiful Canopy.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM06 — Tenebrous Oath",
+	        "mana_cost": "{W}{W}{W}{B}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM06 — Tenebrous Oath.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM06 — Tenebrous Oath"
+	        },
+	        "back": {
+	            "name": "Tenebrous Citadel",
+	            "printed_names": {
+	                "en": "Tenebrous Citadel"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Tenebrous Citadel.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM07 — Brimming Conduction",
+	        "mana_cost": "{U}{U}{U}{R}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM07 — Brimming Conduction.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM07 — Brimming Conduction"
+	        },
+	        "back": {
+	            "name": "Brimming Pipeworks",
+	            "printed_names": {
+	                "en": "Brimming Pipeworks"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Brimming Pipeworks.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM08 — Grim Exchange",
+	        "mana_cost": "{B}{B}{B}{G}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM08 — Grim Exchange.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM08 — Grim Exchange"
+	        },
+	        "back": {
+	            "name": "Grim Cradle",
+	            "printed_names": {
+	                "en": "Grim Cradle"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Grim Cradle.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM09 — Burning Apotheosis",
+	        "mana_cost": "{R}{R}{R}{W}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM09 — Burning Apotheosis.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM09 — Burning Apotheosis"
+	        },
+	        "back": {
+	            "name": "Burning Expanse",
+	            "printed_names": {
+	                "en": "Burning Expanse"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Burning Expanse.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RM10 — Augmented Clarity",
+	        "mana_cost": "{G}{G}{G}{U}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM10 — Augmented Clarity.jpg"
+	        },
+	        "printed names": {
+	            "en": "RM10 — Augmented Clarity"
+	        },
+	        "back": {
+	            "name": "Augmented Nursery",
+	            "printed_names": {
+	                "en": "Augmented Nursery"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Augmented Nursery.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "CA01 — Chromatic Strix",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Bird ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA01 — Chromatic Strix.jpg"
+	        }
+	    },
+	    {
+	        "name": "CA02 — Riveted Sentinel",
+	        "rarity": "common",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA02 — Riveted Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "CA05 — Thaumic Saber",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA05 — Thaumic Saber.jpg"
+	        }
+	    },
+	    {
+	        "name": "UA04 — Arcane Encylopedia",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA04 — Arcane Encylopedia.jpg"
+	        }
+	    },
+	    {
+	        "name": "UA03 — Primed Boomrod",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA03 — Primed Boomrod.jpg"
+	        }
+	    },
+	    {
+	        "name": "UA02 — Automated Warplow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA02 — Automated Warplow.jpg"
+	        }
+	    },
+	    {
+	        "name": "RA01 — Voltaic Hellkite",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RA01 — Voltaic Hellkite.jpg"
+	        }
+	    },
+	    {
+	        "name": "RA02 — Resonant Spellblade",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RA02 — Resonant Spellblade.jpg"
+	        }
+	    },
+	    {
+	        "name": "RA03 — Apocalypse Spire",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RA03 — Apocalypse Spire.jpg"
+	        }
+	    },
+	    {
+	        "name": "RL01 — Heart of Undaum",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RL01 — Heart of Undaum.jpg"
+	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Plains.jpg"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Island.jpg"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Swamp.jpg"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Mountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Forest.jpg"
+	        }
+	    },
+	    {
+	        "name": "MX04 — Enos, Multaen Futurist",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Legendary Creature — Human Elemental ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX04 — Enos, Multaen Futurist.jpg"
+	        }
+	    },
+	    {
+	        "name": "MX01 — Helis Aurim",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Legendary Planeswalker — Helis ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX01 — Helis Aurim.jpg"
+	        }
+	    },
+	    {
+	        "name": "CA03 — Arcane Cartography",
+	        "rarity": "common",
+	        "mana_cost": "{0}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA03 — Arcane Cartography.jpg"
+	        }
+	    },
+	    {
+	        "name": "CL01 — Radiant Fountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CL01 — Radiant Fountain.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB01 — Arrogant Magistocrat",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB01 — Arrogant Magistocrat.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB02 — Canal Sleuth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB02 — Canal Sleuth.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU19 — Cerebral Stimulus",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU19 — Cerebral Stimulus.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR19 — Universal Dynamism",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR19 — Universal Dynamism.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG19 — Promising Growth",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG19 — Promising Growth.jpg"
+	        }
+	    },
+	    {
+	        "name": "CW19 — Auric Stratagem",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW19 — Auric Stratagem.jpg"
+	        }
+	    },
+	    {
+	        "name": "UL01 — Magister Academy",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UL01 — Magister Academy.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR05 — Multaeus Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR05 — Multaeus Invoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "CG05 — Feram Invoker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG05 — Feram Invoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW04 — Sigiled Riposte",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW04 — Sigiled Riposte.jpg"
+	        },
+	        "printed names": {
+	            "en": "UW04 — Sigiled Riposte"
+	        },
+	        "back": {
+	            "name": "Sigled Battlement",
+	            "printed_names": {
+	                "en": "Sigled Battlement"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Sigled Battlement.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UW02 — Storied Justice",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW02 — Storied Justice.jpg"
+	        },
+	        "printed names": {
+	            "en": "UW02 — Storied Justice"
+	        },
+	        "back": {
+	            "name": "Storied Halls",
+	            "printed_names": {
+	                "en": "Storied Halls"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Storied Halls.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UW01 — Duskwold Veteran",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW01 — Duskwold Veteran.jpg"
+	        },
+	        "printed names": {
+	            "en": "UW01 — Duskwold Veteran"
+	        },
+	        "back": {
+	            "name": "Duskwold Scrubland",
+	            "printed_names": {
+	                "en": "Duskwold Scrubland"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Duskwold Scrubland.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UU01 — Anatokos Sentinel",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Leviathan ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU01 — Anatokos Sentinel.jpg"
+	        },
+	        "printed names": {
+	            "en": "UU01 — Anatokos Sentinel"
+	        },
+	        "back": {
+	            "name": "Anatokos Monument",
+	            "printed_names": {
+	                "en": "Anatokos Monument"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Anatokos Monument.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UU02 — Brackish Retort",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU02 — Brackish Retort.jpg"
+	        },
+	        "printed names": {
+	            "en": "UU02 — Brackish Retort"
+	        },
+	        "back": {
+	            "name": "Brackish Coastline",
+	            "printed_names": {
+	                "en": "Brackish Coastline"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Brackish Coastline.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UB04 — Sleuth's Cunning",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB04 — Sleuth's Cunning.jpg"
+	        },
+	        "printed names": {
+	            "en": "UB04 — Sleuth's Cunning"
+	        },
+	        "back": {
+	            "name": "Sleuth's Hideout",
+	            "printed_names": {
+	                "en": "Sleuth's Hideout"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Sleuth's Hideout.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UB03 — Malignant End",
+	        "mana_cost": "{5}{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB03 — Malignant End.jpg"
+	        },
+	        "printed names": {
+	            "en": "UB03 — Malignant End"
+	        },
+	        "back": {
+	            "name": "Malignant Sump",
+	            "printed_names": {
+	                "en": "Malignant Sump"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Malignant Sump.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UG02 — Rosewind Boon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG02 — Rosewind Boon.jpg"
+	        },
+	        "printed names": {
+	            "en": "UG02 — Rosewind Boon"
+	        },
+	        "back": {
+	            "name": "Rosewind Estate",
+	            "printed_names": {
+	                "en": "Rosewind Estate"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Rosewind Estate.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UR03 — Toilfield Expedition",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR03 — Toilfield Expedition.jpg"
+	        },
+	        "printed names": {
+	            "en": "UR03 — Toilfield Expedition"
+	        },
+	        "back": {
+	            "name": "Toilfield Caldera",
+	            "printed_names": {
+	                "en": "Toilfield Caldera"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Toilfield Caldera.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UG01 — Thorncrest Mauler",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG01 — Thorncrest Mauler.jpg"
+	        },
+	        "printed names": {
+	            "en": "UG01 — Thorncrest Mauler"
+	        },
+	        "back": {
+	            "name": "Thorncrest Lodge",
+	            "printed_names": {
+	                "en": "Thorncrest Lodge"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Thorncrest Lodge.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "MX05 — Murai, Bioarcanist",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{U}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX05 — Murai, Bioarcanist.jpg"
+	        }
+	    },
+	    {
+	        "name": "MX03 — Wormwood, the Scholar",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Legendary Planeswalker — Lettie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX03 — Wormwood, the Scholar.jpg"
+	        }
+	    },
+	    {
+	        "name": "MX02 — Odisa, Fierce Conduit",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Legendary Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX02 — Odisa, Fierce Conduit.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB10 — Final Flickering",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB10 — Final Flickering.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR01 — Bristling Manticore",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Manticore ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR01 — Bristling Manticore.jpg"
+	        },
+	        "printed names": {
+	            "en": "UR01 — Bristling Manticore"
+	        },
+	        "back": {
+	            "name": "Bristling Cliffs",
+	            "printed_names": {
+	                "en": "Bristling Cliffs"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Bristling Cliffs.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RW01 — Luminous Sovereign",
+	        "mana_cost": "{3}{W}{W}{W}",
+	        "type": "Creature — Human Angel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW01 — Luminous Sovereign.jpg"
+	        },
+	        "printed names": {
+	            "en": "RW01 — Luminous Sovereign"
+	        },
+	        "back": {
+	            "name": "Luminous Archive",
+	            "printed_names": {
+	                "en": "Luminous Archive"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Luminous Archive.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UU04 — Boreal Barrier",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU04 — Boreal Barrier.jpg"
+	        },
+	        "printed names": {
+	            "en": "UU04 — Boreal Barrier"
+	        },
+	        "back": {
+	            "name": "Boreal Expanse",
+	            "printed_names": {
+	                "en": "Boreal Expanse"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Boreal Expanse.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RB01 — Aberrant Existence",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB01 — Aberrant Existence.jpg"
+	        },
+	        "printed names": {
+	            "en": "RB01 — Aberrant Existence"
+	        },
+	        "back": {
+	            "name": "Aberrant Tower",
+	            "printed_names": {
+	                "en": "Aberrant Tower"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Aberrant Tower.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UB01 — Farseri Scavenger",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB01 — Farseri Scavenger.jpg"
+	        },
+	        "printed names": {
+	            "en": "UB01 — Farseri Scavenger"
+	        },
+	        "back": {
+	            "name": "Farseri Bog",
+	            "printed_names": {
+	                "en": "Farseri Bog"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Farseri Bog.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "RR01 — Energetic Blockbuster",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR01 — Energetic Blockbuster.jpg"
+	        },
+	        "printed names": {
+	            "en": "RR01 — Energetic Blockbuster"
+	        },
+	        "back": {
+	            "name": "Energetic Array",
+	            "printed_names": {
+	                "en": "Energetic Array"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Energetic Array.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UR02 — Faultline Testing",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR02 — Faultline Testing.jpg"
+	        },
+	        "printed names": {
+	            "en": "UR02 — Faultline Testing"
+	        },
+	        "back": {
+	            "name": "Faultline Gorge",
+	            "printed_names": {
+	                "en": "Faultline Gorge"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Faultline Gorge.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "MU01 — Ponder Eternity",
+	        "mana_cost": "{4}{U}{U}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MU01 — Ponder Eternity.jpg"
+	        },
+	        "printed names": {
+	            "en": "MU01 — Ponder Eternity"
+	        },
+	        "back": {
+	            "name": "Captured Eternity",
+	            "printed_names": {
+	                "en": "Captured Eternity"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Captured Eternity.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "CU18 — Reconsider",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU18 — Reconsider.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM01 — Empyrean Strategist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Creature — Human Angel Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM01 — Empyrean Strategist.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM02 — Basilica Archivist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{B}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM02 — Basilica Archivist.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM03 — Mageblade Striker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM03 — Mageblade Striker.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM04 — Scorched Lavawheel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM04 — Scorched Lavawheel.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM05 — Natural Guardian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{W}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM05 — Natural Guardian.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM06 — Duskwold Persecutor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM06 — Duskwold Persecutor.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM07 — Reckless Enthusiam",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM07 — Reckless Enthusiam.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM08 — Shadow Patron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM08 — Shadow Patron.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM09 — Castoff Sentinel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Creatures — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM09 — Castoff Sentinel.jpg"
+	        }
+	    },
+	    {
+	        "name": "UM10 — Lifepath Renegade",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM10 — Lifepath Renegade.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU10 — Reconstitute",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU10 — Reconstitute.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR06 — Toilfield Stoker",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR06 — Toilfield Stoker.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR18 — Conscript",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR18 — Conscript.jpg"
+	        }
+	    },
+	    {
+	        "name": "CR17 — Galvanic Rebuttal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR17 — Galvanic Rebuttal.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW14 — Ascendant Path",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW14 — Ascendant Path.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU14 — Aerodynamics",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU14 — Aerodynamics.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB15 — Abstraction of Pride",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB15 — Abstraction of Pride.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG15 — Abstraction of Self",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG15 — Abstraction of Self.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU10 — Skyward Abjurant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU10 — Skyward Abjurant.jpg"
+	        }
+	    },
+	    {
+	        "name": "CU04 — Aqueous Shaper",
+	        "rarity": "common",
+	        "mana_cost": "{U}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU04 — Aqueous Shaper.jpg"
+	        }
+	    },
+	    {
+	        "name": "UW15 — Abstraction of Glory",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW15 — Abstraction of Glory.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU15 — Abstraction of Reason",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU15 — Abstraction of Reason.jpg"
+	        }
+	    },
+	    {
+	        "name": "UB14 — Will to Power",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB14 — Will to Power.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG14 — Captured Recollection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG14 — Captured Recollection.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR15 — Abstraction of Desire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR15 — Abstraction of Desire.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB13 — Political Maneuver",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB13 — Political Maneuver.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB12 — Into the Abyss",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB12 — Into the Abyss.jpg"
+	        }
+	    },
+	    {
+	        "name": "MB02 — Thirteenth Columnist",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MB02 — Thirteenth Columnist.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB11 — Discorporate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB11 — Discorporate.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB18 — Duress",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB18 — Duress.jpg"
+	        }
+	    },
+	    {
+	        "name": "CA04 — Glove of Evocation",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA04 — Glove of Evocation.jpg"
+	        }
+	    },
+	    {
+	        "name": "UR14 — Ignite Possibility",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR14 — Ignite Possibility.jpg"
+	        }
+	    },
+	    {
+	        "name": "CB19 — Hazardous Research",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB19 — Hazardous Research.jpg"
+	        }
+	    },
+	    {
+	        "name": "UG03 — Cantabar Resurgence",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG03 — Cantabar Resurgence.jpg"
+	        },
+	        "printed names": {
+	            "en": "UG03 — Cantabar Resurgence"
+	        },
+	        "back": {
+	            "name": "Cantabar Overgrowth",
+	            "printed_names": {
+	                "en": "Cantabar Overgrowth"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Cantabar Overgrowth.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UG04 — Vermur Thrash",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG04 — Vermur Thrash.jpg"
+	        },
+	        "printed names": {
+	            "en": "UG04 — Vermur Thrash"
+	        },
+	        "back": {
+	            "name": "Vermur Clearing",
+	            "printed_names": {
+	                "en": "Vermur Clearing"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Vermur Clearing.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UR04 — Procula Sabotage",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR04 — Procula Sabotage.jpg"
+	        },
+	        "printed names": {
+	            "en": "UR04 — Procula Sabotage"
+	        },
+	        "back": {
+	            "name": "Procula Quarter",
+	            "printed_names": {
+	                "en": "Procula Quarter"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Procula Quarter.jpg"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "UR06 — Orders Received",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR06 — Orders Received.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU13 — Decipher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU13 — Decipher.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR04 — Esther, Mageblade Lieutenant",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Legendary Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR04 — Esther, Mageblade Lieutenant.jpg"
+	        }
+	    },
+	    {
+	        "name": "UU11 — Thaumic Expulsion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU11 — Thaumic Expulsion.jpg"
+	        }
+	    },
+	    {
+	        "name": "RR05 — Egoling",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR05 — Egoling.jpg"
+	        }
+	    },
+	    {
+	        "name": "RB04 — Duskwold Spellcutter",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB04 — Duskwold Spellcutter.jpg"
+	        }
+	    },
+	    {
+	        "name": "UA01 — Stinger Simulacra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA01 — Stinger Simulacra.jpg"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		3 RW02 — Virtued Lancer
+		3 RW06 — Witness of Ideals
+		3 RW04 — Liberi, Angelic Paragon
+		3 RW03 — Throne's Influence
+		3 RW05 — Angelic Responder
+		3 RW07 — Rapid Deployment
+		3 RW08 — Under Their Wings
+		3 RW09 — Ego Vault
+		3 RW10 — Envisioned Ascension
+		3 RW11 — Helis's Theorem
+		3 RU01 — Reflecting Sigil
+		3 RU03 — Detlav, Arcanamedician
+		3 RR02 — Thaumtech Runner
+		3 RU04 — Revelation Seer
+		3 RU05 — Sage of Dismissal
+		3 RU06 — Roiling Nimbus
+		3 RU07 — Modernity
+		3 RU08 — Borrowed Epiphany
+		3 RU09 — Emergent Behavior
+		3 RU10 — Disallow
+		3 RU11 — Murai's Theorem
+		3 RB02 — Hexkeeper
+		3 RB03 — Slayer of Wretches
+		3 RB05 — Haukin, Vourgan Archmage
+		3 RB06 — Flight of Torments
+		3 RB07 — Caustic Indignance
+		3 RB08 — Stygian Edict
+		3 RB09 — Evocator's Rites
+		3 RB11 — Odisa's Theorem
+		3 RU02 — Memory Bearer
+		3 RR03 — Futurist Partisan
+		3 RR06 — Assault Wyrm
+		3 RR07 — Manic Renewal
+		3 RR09 — Declare Hostilities
+		3 RR08 — Bring to Bare
+		3 RR10 — Blazing Plume
+		3 RR11 — Enos's Theorem
+		3 RG01 — Selective Nostalgia
+		3 RG02 — Mana Tender
+		3 RG03 — Insurgent Duelist
+		3 RG04 — Azani, Feram Idealist
+		3 RG05 — Seer of Allegiances
+		3 RG06 — Veiled Intercessor
+		3 RG07 — Deadwood Titan
+		3 RG08 — Karst Wurm
+		3 RG09 — Collective Self
+		3 RG10 — Greater Potential
+		3 RG11 — Wormwood's Theorem
+		3 RM01 — Brilliant Insight
+		3 RM02 — Cathartic Squall
+		3 RM03 — Smuggler's Secrets
+		3 RM04 — Vibrant Chord
+		3 RM05 — Bountiful Vigil
+		3 RM06 — Tenebrous Oath
+		3 RM07 — Brimming Conduction
+		3 RM08 — Grim Exchange
+		3 RM09 — Burning Apotheosis
+		3 RM10 — Augmented Clarity
+		3 RA01 — Voltaic Hellkite
+		3 RA02 — Resonant Spellblade
+		3 RA03 — Apocalypse Spire
+		3 RL01 — Heart of Undaum
+		3 RB10 — Final Flickering
+		3 RW01 — Luminous Sovereign
+		3 RB01 — Aberrant Existence
+		3 RR01 — Energetic Blockbuster
+		3 RR04 — Esther, Mageblade Lieutenant
+		3 RR05 — Egoling
+		3 RB04 — Duskwold Spellcutter
+		1 MW01 — Enforce Ideal
+		1 MW02 — Winged Adjudicator
+		1 MW03 — Agrarian Rollout
+		1 MU02 — Cloudgully
+		1 MU03 — Roundabout
+		1 MB01 — Everlasting Umbrage
+		1 MB03 — Herald of Anguish
+		1 MR01 — Thundering Cataclysm
+		1 MR02 — Crackling Stormbird
+		1 MR03 — Forced Feedback
+		1 MG01 — Disturb the Weald
+		1 MG02 — Crucible Greatwurm
+		1 MG03 — Rosewind Memorialist
+		1 MX04 — Enos, Multaen Futurist
+		1 MX01 — Helis Aurim
+		1 MX05 — Murai, Bioarcanist
+		1 MX03 — Wormwood, the Scholar
+		1 MX02 — Odisa, Fierce Conduit
+		1 MU01 — Ponder Eternity
+		1 MB02 — Thirteenth Columnist
+	[UncommonSlot(3)]
+		9 UW03 — Sunlit Strength
+		9 UW05 — Autarch's Guard
+		9 UW06 — Dawn's Pride
+		9 UW07 — Chaplain of Change
+		9 UW09 — Regal Sentinel
+		9 UW08 — Defiant Hexblade
+		9 UW10 — Lightwarden
+		9 UW11 — Radiant Marshal
+		9 UW12 — Angelify
+		9 UW13 — Tangibile Virtue
+		9 UU03 — Rhimeland Expulsion
+		9 UU05 — Murkminder
+		9 UU06 — Arcaniform Conduit
+		9 UU07 — Illusory Egotist
+		9 UU08 — Grandiose Conjurer
+		9 UU09 — Glacial Grappler
+		9 UU12 — Capture Wave
+		9 UB02 — Corpater Ritual
+		9 UB05 — Vis Dregs
+		9 UB06 — Violet Persuader
+		9 UB07 — Revenant Agent
+		9 UB08 — Parlour Guard
+		9 UB09 — Malignant Castoffs
+		9 UB10 — Hulking Spellfist
+		9 UB11 — Cut Out
+		9 UB12 — Back for More
+		9 UB13 — Weight of Expectations
+		9 UR05 — Rustbucket Brawler
+		9 UR07 — Thunderzoa
+		9 UR08 — Lava Mongrel
+		9 UR09 — Catalytic Gorger
+		9 UR10 — Enthusiastic Chemister
+		9 UR11 — Big Score
+		9 UR12 — Revelatory Ignition
+		9 UR13 — Identity Crisis
+		9 UG05 — Medium of Might
+		9 UG06 — Memoir Collector
+		9 UG07 — Celeritous Agent
+		9 UG08 — Daring Infiltrator
+		9 UG09 — Tangled Harbinger
+		9 UG10 — Borderpine Guardian
+		9 UG11 — Deadwood Awakener
+		9 UG12 — Colossal Majesty
+		9 UG13 — Sylvan Inheritance
+		9 UA04 — Arcane Encylopedia
+		9 UA03 — Primed Boomrod
+		9 UA02 — Automated Warplow
+		9 UL01 — Magister Academy
+		9 UW04 — Sigiled Riposte
+		9 UW02 — Storied Justice
+		9 UW01 — Duskwold Veteran
+		9 UU01 — Anatokos Sentinel
+		9 UU02 — Brackish Retort
+		9 UB04 — Sleuth's Cunning
+		9 UB03 — Malignant End
+		9 UG02 — Rosewind Boon
+		9 UR03 — Toilfield Expedition
+		9 UG01 — Thorncrest Mauler
+		9 UR01 — Bristling Manticore
+		9 UU04 — Boreal Barrier
+		9 UB01 — Farseri Scavenger
+		9 UR02 — Faultline Testing
+		9 UM01 — Empyrean Strategist
+		9 UM02 — Basilica Archivist
+		9 UM03 — Mageblade Striker
+		9 UM04 — Scorched Lavawheel
+		9 UM05 — Natural Guardian
+		9 UM06 — Duskwold Persecutor
+		9 UM07 — Reckless Enthusiam
+		9 UM08 — Shadow Patron
+		9 UM09 — Castoff Sentinel
+		9 UM10 — Lifepath Renegade
+		9 UW14 — Ascendant Path
+		9 UU14 — Aerodynamics
+		9 UB15 — Abstraction of Pride
+		9 UG15 — Abstraction of Self
+		9 UU10 — Skyward Abjurant
+		9 UW15 — Abstraction of Glory
+		9 UU15 — Abstraction of Reason
+		9 UB14 — Will to Power
+		9 UG14 — Captured Recollection
+		9 UR15 — Abstraction of Desire
+		9 UR14 — Ignite Possibility
+		9 UG03 — Cantabar Resurgence
+		9 UG04 — Vermur Thrash
+		9 UR04 — Procula Sabotage
+		9 UR06 — Orders Received
+		9 UU13 — Decipher
+		9 UU11 — Thaumic Expulsion
+		9 UA01 — Stinger Simulacra
+	[CommonSlot(10)]
+		30 CW01 — Roc of the Valley
+		30 CW02 — Ardent Magus
+		30 CW03 — Plaza Enforcer
+		30 CW04 — Ward Hound
+		30 CW06 — Awakened Initiate
+		30 CW08 — Chapel Persecutor
+		30 CW07 — Secure the Perimeter
+		30 CW05 — Aurterran Invoker
+		30 CW09 — Chaplain of Resolve
+		30 CW10 — Balmrunner
+		30 CW11 — Hinterland Courser
+		30 CW12 — Prior Knowledge
+		30 CW13 — Templar's Finale
+		30 CW14 — March into History
+		30 CW15 — Reflected Resolve
+		30 CW16 — Holding Spell
+		30 CW18 — Argent Unmaking
+		30 CW17 — Detain
+		30 CU01 — Drake Runt
+		30 CU02 — Flow Seeress
+		30 CU06 — Eager Disciple
+		30 CU05 — Ormuri Invoker
+		30 CU03 — Mortal Conjurant
+		30 CU07 — Winged Aegis
+		30 CU08 — Coastal Lurker
+		30 CU09 — Iridescent Drake
+		30 CU11 — Mage's Warding
+		30 CU12 — Arcane Consultation
+		30 CU13 — Space Between
+		30 CU14 — Visionary Research
+		30 CU15 — Thaumaturge's Gambit
+		30 CU16 — High Alarum
+		30 CU17 — Focused Study
+		30 CB03 — Cloister Keepers
+		30 CB04 — Castoff Wretch
+		30 CB05 — Vourgan Invoker
+		30 CB06 — Reckless Assailant
+		30 CB16 — Spellbound Familiar
+		30 CB08 — Vis Manipulator
+		30 CB09 — Duskwold Warden
+		30 CB10 — Soulforged Rager
+		30 CB14 — Vis Rend
+		30 CB15 — Vile Renewal
+		30 CB07 — Mire Drowner
+		30 CB17 — Tools of the Trade
+		30 CR01 — Renegade Technician
+		30 CR02 — Charged Runner
+		30 CR07 — Igneous Catalyst
+		30 CR04 — Dune Stinger
+		30 CR03 — Molten Lavacat
+		30 CR08 — Mageblade Recruit
+		30 CR09 — Procula Marshal
+		30 CR10 — Flamewheel Ritualist
+		30 CR11 — Bring Down
+		30 CR12 — Rev Up
+		30 CR13 — Bolt of Inspiration
+		30 CR14 — Seismic Stroke
+		30 CR15 — Stream of Consciousness
+		30 CR16 — Scorching Ray
+		30 CG01 — Novite Cataloguer
+		30 CG02 — Vital Keeper
+		30 CG09 — Migratory Striders
+		30 CG04 — Writhing Rafflesia
+		30 CG06 — Grassy Lynxes
+		30 CG07 — Preserve Hound
+		30 CG08 — Chronicler of Change
+		30 CG10 — Endangered Pronghorn
+		30 CG03 — Enlisted Warden
+		30 CG11 — Canopy Grappler
+		30 CG12 — Circle of Strife
+		30 CG13 — Regenerative Sinew
+		30 CG14 — Collective Wisdom
+		30 CG15 — Nature's Resurgence
+		30 CG16 — Disarming Mist
+		30 CG17 — Explosive Sowing
+		30 CG18 — Sylvan Rebuttal
+		30 CA01 — Chromatic Strix
+		30 CA02 — Riveted Sentinel
+		30 CA05 — Thaumic Saber
+		30 CA03 — Arcane Cartography
+		30 CL01 — Radiant Fountain
+		30 CB01 — Arrogant Magistocrat
+		30 CB02 — Canal Sleuth
+		30 CU19 — Cerebral Stimulus
+		30 CR19 — Universal Dynamism
+		30 CG19 — Promising Growth
+		30 CW19 — Auric Stratagem
+		30 CR05 — Multaeus Invoker
+		30 CG05 — Feram Invoker
+		30 CU18 — Reconsider
+		30 CU10 — Reconstitute
+		30 CR06 — Toilfield Stoker
+		30 CR18 — Conscript
+		30 CR17 — Galvanic Rebuttal
+		30 CU04 — Aqueous Shaper
+		30 CB13 — Political Maneuver
+		30 CB12 — Into the Abyss
+		30 CB11 — Discorporate
+		30 CB18 — Duress
+		30 CA04 — Glove of Evocation
+		30 CB19 — Hazardous Research
+	[BasicSlot(1)]
+		3 Plains
+		3 Island
+		3 Swamp
+		3 Mountain
+		3 Forest
+	

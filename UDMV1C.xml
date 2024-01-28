@@ -1,0 +1,4915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>UDM</name>
+      <longname>Undaum — Final</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CW01 — Roc of the Valley</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever a creature enters the battlefield under your control, gain 1 life.</text>
+    </card>
+    <card>
+      <name>CW02 — Ardent Magus</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2W: Tap target creature.</text>
+    </card>
+    <card>
+      <name>CW03 — Plaza Enforcer</name>
+      <set rarity="common">UDM</set>
+      <related>Soldier UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Plaza Enforcer dies, create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>CW04 — Ward Hound</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Ward Hound enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>CW06 — Awakened Initiate</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Angel Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with three or more creatures, Awakened Initiate gains flying until end of turn.</text>
+    </card>
+    <card>
+      <name>CW08 — Chapel Persecutor</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature you control gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW07 — Secure the Perimeter</name>
+      <set rarity="common">UDM</set>
+      <related>Soldier UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Soldier creature tokens. Scry 1.</text>
+    </card>
+    <card>
+      <name>CW05 — Aurterran Invoker</name>
+      <set rarity="common">UDM</set>
+      <related>Human Angel UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{8}: Create a 4/4 white Human Angel creature token with flying.</text>
+    </card>
+    <card>
+      <name>CW09 — Chaplain of Resolve</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Chaplain of Resolve enters the battlefield, if you control a creature with a +1/+1 counter on it, draw a card and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>CW10 — Balmrunner</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Magecraft — Whenever you cast or copy an instant or sorcery spell, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>CW11 — Hinterland Courser</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Unicorn </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Hinterland Courser enters the battlefield, target creature you control gets +2/+2 and gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>CW12 — Prior Knowledge</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap up to two target creatures you control. Those creatures get +0/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW13 — Templar&apos;s Finale</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to this spell, sacrifice a creature or pay 2W.
+Exile target nonland permanent.</text>
+    </card>
+    <card>
+      <name>CW14 — March into History</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+0 and gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CW15 — Reflected Resolve</name>
+      <set rarity="common">UDM</set>
+      <related>Human Angel UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, create a 4/4 white Human Angel creature token with flying.</text>
+    </card>
+    <card>
+      <name>CW16 — Holding Spell</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block.
+Whenever you attack with three or more creatures, exile enchanted creature.</text>
+    </card>
+    <card>
+      <name>CW18 — Argent Unmaking</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Destroy target artifact or enchantment.
+• Argent Unmaking deals 3 damage to target tapped creature.</text>
+    </card>
+    <card>
+      <name>CW17 — Detain</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target tapped creature to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>CU01 — Drake Runt</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Drake Runt enters the battlefield, scry 2.</text>
+    </card>
+    <card>
+      <name>CU02 — Flow Seeress</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>CU06 — Eager Disciple</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, scry 1.</text>
+    </card>
+    <card>
+      <name>CU05 — Ormuri Invoker</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{8}: Draw two cards.</text>
+    </card>
+    <card>
+      <name>CU03 — Mortal Conjurant</name>
+      <set rarity="common">UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mortal Conjurant dies, create a 2/2 blue Reflection creature token.</text>
+    </card>
+    <card>
+      <name>CU07 — Winged Aegis</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elemental Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Magecraft — Whenever you cast or copy an instant or sorcery spell, untap Winged Aegis It gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>CU08 — Coastal Lurker</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Fish Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, put a hexproof counter on Coastal Lurker.
+4U: Coastal Lurker can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>CU09 — Iridescent Drake</name>
+      <set rarity="common">UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Drake </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Iridescent Drake dies, create a 2/2 blue Reflection creature token.</text>
+    </card>
+    <card>
+      <name>CU11 — Mage&apos;s Warding</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains hexproof until end of turn. Scry 1.</text>
+    </card>
+    <card>
+      <name>CU12 — Arcane Consultation</name>
+      <set rarity="common">UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Scry 2, then draw a card.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, create two 2/2 blue Reflection creature tokens.</text>
+    </card>
+    <card>
+      <name>CU13 — Space Between</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 and can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>CU14 — Visionary Research</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top four cards of your library. You may reveal up to two instant, sorcery, and/or cards with mana value 5 or greater from among them and put them into your hand. Put the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>CU15 — Thaumaturge&apos;s Gambit</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand. If you control a creature token, you may draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>CU16 — High Alarum</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +0/+1 until end of turn. Untap them.</text>
+    </card>
+    <card>
+      <name>CU17 — Focused Study</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. If there are two or fewer instant and/or sorcery cards in your graveyard, discard a card.</text>
+    </card>
+    <card>
+      <name>CB03 — Cloister Keepers</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>CB04 — Castoff Wretch</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Castoff Wretch dies, if it wasn’t blocking, draw a card.</text>
+    </card>
+    <card>
+      <name>CB05 — Vourgan Invoker</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{8}: Target creature gets -4/-4 until end of turn.</text>
+    </card>
+    <card>
+      <name>CB06 — Reckless Assailant</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reckless Assailant can’t block.</text>
+    </card>
+    <card>
+      <name>CB16 — Spellbound Familiar</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+As long as you have three or more instant and/or sorcery cards in your graveyard, Spellbound Familiar may attack as though it didn’t have defender.</text>
+    </card>
+    <card>
+      <name>CB08 — Vis Manipulator</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Vis Manipulator gets your choice of lifelink or menace until end of turn.</text>
+    </card>
+    <card>
+      <name>CB09 — Duskwold Warden</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Duskwold Warden enters the battlefield, surveil 2.
+As long as there are three or more instant and/or sorcery cards in your graveyard, Duskwold Warden has lifelink.</text>
+    </card>
+    <card>
+      <name>CB10 — Soulforged Rager</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Soulforged Rager gets +1/+0 and gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>CB14 — Vis Rend</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vis Rend deals 2 damage to any target and you gain 2 life.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, each opponent loses 2 life.</text>
+    </card>
+    <card>
+      <name>CB15 — Vile Renewal</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both — 
+• Return target creature card with mana value 3 or less from your graveyard to your hand.
+• Return target creature card with mana value 4 or greater from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CB07 — Mire Drowner</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bat </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Mire Drowner enters the battlefield, destroy target creature with power 2 or less.</text>
+    </card>
+    <card>
+      <name>CB17 — Tools of the Trade</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains deathtouch until end of turn. Scry 1.</text>
+    </card>
+    <card>
+      <name>CR01 — Renegade Technician</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever you attack with three or more creatures, Renegade Technician gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR02 — Charged Runner</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2R: Charged Runner gets +3/+0 and gains menace until end of turn.</text>
+    </card>
+    <card>
+      <name>CR07 — Igneous Catalyst</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Igneous Catalyst enters the battlefield, exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>CR04 — Dune Stinger</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Dune Stinger deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CR03 — Molten Lavacat</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Molten Lavacat attacks, draw a card, then discard a card.
+Molten Lavacat has double strike as long as there are three or more instant and/or sorcery cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>CR08 — Mageblade Recruit</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Mageblade Recruit has first strike.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>CR09 — Procula Marshal</name>
+      <set rarity="common">UDM</set>
+      <related>Soldier UDM</related>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Procula Marshal enters the battlefield, choose one — 
+• Create a 1/1 white Soldier creature token.
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>CR10 — Flamewheel Ritualist</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Flamewheel Ritualist enters the battlefield, add RR.
+Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, Flamewheel Ritualist deals 2 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CR11 — Bring Down</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Bring Down deals 2 plus X damage to target creature or planeswalker, where X is equal to the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>CR12 — Rev Up</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to this spell, sacrifice a creature or pay 1R.
+Target creature gets +3/+1 and gains trample until end of turn. 
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CR13 — Bolt of Inspiration</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Bolt of Inspiration deals 4 damage to target creature or planeswalker.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>CR14 — Seismic Stroke</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Seismic Stroke deals 5 damage divided as you choose among any number of targets. Scry 1.</text>
+    </card>
+    <card>
+      <name>CR15 — Stream of Consciousness</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile the top two cards of your library. You may play them until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>CR16 — Scorching Ray</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast this spell, you may discard a card from your hand. If you do, copy this spell. You may choose new targets for the copy.
+Scorching Ray deals 3 damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>CG01 — Novite Cataloguer</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Tap another untapped creature you control: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>CG02 — Vital Keeper</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2G: Put a +1/+1 counter on Vital Keeper. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CG09 — Migratory Striders</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Migratory Striders can’t be blocked by creatures with power 2 or less.</text>
+    </card>
+    <card>
+      <name>CG04 — Writhing Rafflesia</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Writhing Rafflesia dies, look at the top four cards of your library. You may reveal a creature or a land card from among them and put it into your hand. Put the remaining cards on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>CG06 — Grassy Lynxes</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Grassy Lynxes.</text>
+    </card>
+    <card>
+      <name>CG07 — Preserve Hound</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, untap Preserve Hound and put a +1/+1 counter it.</text>
+    </card>
+    <card>
+      <name>CG08 — Chronicler of Change</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Chronicler of Change enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>CG10 — Endangered Pronghorn</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Endangered Pronghorn enters the battlefield, you gain 3 life.
+3G: Endangered Pronghorn gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CG03 — Enlisted Warden</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Enlisted Warden enters the battlefield, reveal the top card of your library. If it’s a land, put it into your hand. Otherwise, put it into your graveyard.</text>
+    </card>
+    <card>
+      <name>CG11 — Canopy Grappler</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>6/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Reach
+Canopy Grappler can block any number of creatures with flying.</text>
+    </card>
+    <card>
+      <name>CG12 — Circle of Strife</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If target creature you control has power 4 or greater, it gains indestructible until end of turn. It fights target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>CG13 — Regenerative Sinew</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control. Untap it. It gains hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>CG14 — Collective Wisdom</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, untap each creature you control.</text>
+    </card>
+    <card>
+      <name>CG15 — Nature&apos;s Resurgence</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Destroy target artifact or enchantment.
+• Search your library for a basic Forest card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>CG16 — Disarming Mist</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt this turn. Scry 1.</text>
+    </card>
+    <card>
+      <name>CG17 — Explosive Sowing</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, untap up to three lands you control.</text>
+    </card>
+    <card>
+      <name>CG18 — Sylvan Rebuttal</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Sylvan Rebuttal enters the battlefield, it deals 5 damage to target creature with flying an opponent controls.
+Enchanted creature gets +2/+2.</text>
+    </card>
+    <card>
+      <name>UW03 — Sunlit Strength</name>
+      <set rarity="uncommon" splitterPath="/UW03 — Sunlit Strength.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control.
+---
+(Back): Sunlit Hills</text>
+      <related attach="transform">Sunlit Hills</related>
+    </card>
+    <card>
+      <name>Sunlit Hills</name>
+      <set rarity="uncommon" splitterPath="/Sunlit Hills.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sunlit Hills enters the battlefield tapped.
+{T}: Add {W}.
+---
+(Front): UW03 — Sunlit Strength</text>
+    </card>
+    <card>
+      <name>UW05 — Autarch&apos;s Guard</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with three or more creatures, tap target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>UW06 — Dawn&apos;s Pride</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever another creature enters the battlefield under your control, Dawn’s Pride gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>UW07 — Chaplain of Change</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Creature tokens you control get +1/+0. </text>
+    </card>
+    <card>
+      <name>UW09 — Regal Sentinel</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Chimera </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you attack with three or more creatures, put a +1/+1 counter on Regal Sentinel.</text>
+    </card>
+    <card>
+      <name>UW08 — Defiant Hexblade</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever Defiant Hexblade attacks, it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>UW10 — Lightwarden</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Lightwarden dies, distribute six +1/+1 counters among creatures you control.</text>
+    </card>
+    <card>
+      <name>UW11 — Radiant Marshal</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Soldier UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 1/1 white Soldier creature token.</text>
+    </card>
+    <card>
+      <name>UW12 — Angelify</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +3/+3, has flying, and is an Angel in addition to its other types.</text>
+    </card>
+    <card>
+      <name>UW13 — Tangibile Virtue</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control have vigilance.
+Breakthrough — If you’ve spent seven or more mana this turn, creatures you control get +2/+1.</text>
+    </card>
+    <card>
+      <name>UU03 — Rhimeland Expulsion</name>
+      <set rarity="uncommon" splitterPath="/UU03 — Rhimeland Expulsion.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap up to four target creatures. They don’t untap during their controller’s next untap step.
+---
+(Back): Rhimeland Outpost</text>
+      <related attach="transform">Rhimeland Outpost</related>
+    </card>
+    <card>
+      <name>Rhimeland Outpost</name>
+      <set rarity="uncommon" splitterPath="/Rhimeland Outpost.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rhimeland Outpost enters the battlefield tapped.
+{T}: Add {U}.
+---
+(Front): UU03 — Rhimeland Expulsion</text>
+    </card>
+    <card>
+      <name>UU05 — Murkminder</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+As long as there are three or more instant and/or sorcery cards in your graveyard, Murkminder can’t be blocked.</text>
+    </card>
+    <card>
+      <name>UU06 — Arcaniform Conduit</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Creature tokens you control get +0/+1.</text>
+    </card>
+    <card>
+      <name>UU07 — Illusory Egotist</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Illusory Egotist enters the battlefield, draw a card.
+Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, Illusory Egotist becomes 8/8. (This effect lasts permanently.)</text>
+    </card>
+    <card>
+      <name>UU08 — Grandiose Conjurer</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Grandiose Conjurer enters the battlefield, create a 2/2 blue Reflection creature token.
+XU: Target token creature you control is X/X until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UU09 — Glacial Grappler</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5UU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Glacial Grappler enters the battlefield or attacks, tap target creature an opponent controls. It doesn’t untap during its controller’s next untap step.</text>
+    </card>
+    <card>
+      <name>UU12 — Capture Wave</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, each opponent puts a card from their hand on the bottom of their library.</text>
+    </card>
+    <card>
+      <name>UB02 — Corpater Ritual</name>
+      <set rarity="uncommon" splitterPath="/UB02 — Corpater Ritual.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw two cards and lose 2 life.
+---
+(Back): Corpater Lowland</text>
+      <related attach="transform">Corpater Lowland</related>
+    </card>
+    <card>
+      <name>Corpater Lowland</name>
+      <set rarity="uncommon" splitterPath="/Corpater Lowland.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Corpater Lowland enters the battlefield tapped.
+{T}: Add {B}.
+---
+(Front): UB02 — Corpater Ritual</text>
+    </card>
+    <card>
+      <name>UB05 — Vis Dregs</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vis Dregs gets +1/+1 for each instant and/or sorcery card in your graveyard.</text>
+    </card>
+    <card>
+      <name>UB06 — Violet Persuader</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Violet Persuader can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>UB07 — Revenant Agent</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Revenant Agent dies, if it had power 4 or greater, you may return it from your graveyard to your hand.
+3B: Revenant Agent gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>UB08 — Parlour Guard</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with a creature with power 4 or greater, defending player loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>UB09 — Malignant Castoffs</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6B</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Malignant Castoffs gets +1/+1 for each instant and/or sorcery card in your graveyard.
+Breakthrough — If you’ve spent seven or more mana this turn, Malignant Castoffs can’t be blocked.</text>
+    </card>
+    <card>
+      <name>UB10 — Hulking Spellfist</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Hulking Spellfist gets +1/+0 and gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>UB11 — Cut Out</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker. You lose life equal to its mana value.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, each opponent loses 3 life and you gain 3 life.</text>
+    </card>
+    <card>
+      <name>UB12 — Back for More</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature card from your graveyard to the battlefield. If a creature you control died this turn, it enters with two +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>UB13 — Weight of Expectations</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -X/-X until end of turn, where X is the number of cards in your hand plus 1.</text>
+    </card>
+    <card>
+      <name>UR05 — Rustbucket Brawler</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1R: Creatures you control named Rustbucket Brawler get +1/+0 until end of turn.
+Breakthrough — If you’ve spent seven or more mana this turn, whenever Rustbucket Brawler attacks, if it isn’t a copy, create a copy of it that’s tapped and attacking.</text>
+    </card>
+    <card>
+      <name>UR07 — Thunderzoa</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Jellyfish </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Magecraft — Whenever you cast or copy an instant or sorcery spell, Thunderzoa gets +3/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UR08 — Lava Mongrel</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5R</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Lava Mongrel gets +1/+1 for each other attacking creature you control.</text>
+    </card>
+    <card>
+      <name>UR09 — Catalytic Gorger</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Catalytic Gorger enters the battlefield, draw three cards, then discard two cards.
+5RR: Catalytic Gorger gets +4/+4 until end of turn.</text>
+    </card>
+    <card>
+      <name>UR10 — Enthusiastic Chemister</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, exile the top card of your library. You may play it this turn.</text>
+    </card>
+    <card>
+      <name>UR11 — Big Score</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Treasure UDM</related>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to Big Score, discard a card.
+Draw two cards and create two Treasure tokens.</text>
+    </card>
+    <card>
+      <name>UR12 — Revelatory Ignition</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRR</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Breakthrough — If you’ve spent seven or more mana this turn, this spell can’t be countered.
+Revelatory Ignition deals X+2 damage to any target.</text>
+    </card>
+    <card>
+      <name>UR13 — Identity Crisis</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature or permanent deals 10 damage to itself. If a permanent dealt damage this way would be put into a graveyard this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>UG05 — Medium of Might</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put one or more +1/+1 counters on another creature you control, put a +1/+1 counter on Medium of Might.
+2G, Remove a +1/+1 counter from a creature you control: Draw a card.</text>
+    </card>
+    <card>
+      <name>UG06 — Memoir Collector</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, Memoir Collector deals damage equal to its power to target creature an opponent controls.
+{T}: Add {G}</text>
+    </card>
+    <card>
+      <name>UG07 — Celeritous Agent</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+2G: Put a +1/+1 counter on Celeritous Agent.</text>
+    </card>
+    <card>
+      <name>UG08 — Daring Infiltrator</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Daring Infiltrator can’t be blocked except by creatures with flying or reach.
+Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, put two +1/+1 counters on Daring Infiltrator.</text>
+    </card>
+    <card>
+      <name>UG09 — Tangled Harbinger</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, reach
+When Tangled Harbinger enters the battlefield, choose one — 
+• Tangled Harbinger deals 3 damage to each creature with flying.
+• Creatures you control get +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>UG10 — Borderpine Guardian</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Borderpine Guardian enters the battlefield, you may have it fight target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>UG11 — Deadwood Awakener</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put four +1/+1 counters on target land you control. Untap it. It becomes a green 0/0 Elemental creature with haste.</text>
+    </card>
+    <card>
+      <name>UG12 — Colossal Majesty</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, if you control a creature with power 4 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>UG13 — Sylvan Inheritance</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +5/+5 and has reach and “This creature can’t be blocked by more than one creature.”</text>
+    </card>
+    <card>
+      <name>RW02 — Virtued Lancer</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Virtued Lancer.</text>
+    </card>
+    <card>
+      <name>RW06 — Witness of Ideals</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control with a +1/+1 counter on it would die, instead remove all damage and counters from that creature.</text>
+    </card>
+    <card>
+      <name>RW04 — Liberi, Angelic Paragon</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of combat on your turn, if you control seven or more creatures, Liberi, Angelic Paragon gains double strike, lifelink, and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>RW03 — Throne&apos;s Influence</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>RW05 — Angelic Responder</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Angel </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Angelic Responder enters the battlefield, target creature you control gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>RW07 — Rapid Deployment</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create six 1/1 white Soldier creature tokens.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, create six 1/1 white Soldier creature tokens. </text>
+    </card>
+    <card>
+      <name>RW08 — Under Their Wings</name>
+      <set rarity="rare">UDM</set>
+      <related>Human Angel UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Under Their Wings enters the battlefield and at the beginning of your upkeep, create a white 4/4 Human Angel creature token with flying.</text>
+    </card>
+    <card>
+      <name>RW09 — Ego Vault</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature or planeswalker. As long as that card remains exiled, its owner may cast it by paying {2} in addition to its other costs.</text>
+    </card>
+    <card>
+      <name>RW10 — Envisioned Ascension</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>WW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gets +1/+1 for each attacking creature you control.</text>
+    </card>
+    <card>
+      <name>RW11 — Helis&apos;s Theorem</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{W}|Creatures you control get +1/+1 until end of turn.
+2W|Creatures you control gain vigilance until end of turn.
+3W|Prevent all combat damage that would be dealt to creatures you control this turn.</text>
+    </card>
+    <card>
+      <name>RU01 — Reflecting Sigil</name>
+      <set rarity="rare" splitterPath="/RU01 — Reflecting Sigil.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Copy target spell with mana value 3 or less. If it’s an instant or sorcery, you may choose new targets for the copy.
+---
+(Back): Reflecting Waterway</text>
+      <related attach="transform">Reflecting Waterway</related>
+    </card>
+    <card>
+      <name>Reflecting Waterway</name>
+      <set rarity="rare" splitterPath="/Reflecting Waterway.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Reflecting Waterway enters the battlefield tapped.
+{T}: Add {U}.
+---
+(Front): RU01 — Reflecting Sigil</text>
+    </card>
+    <card>
+      <name>RU03 — Detlav, Arcanamedician</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell with mana value 5 or greater, draw a card and put a +1/+1 counter on Detlav, Arcanamedician.
+Detlav, Arcanamedician has flying as long as he has power 5 or greater.</text>
+    </card>
+    <card>
+      <name>RR02 — Thaumtech Runner</name>
+      <set rarity="rare">UDM</set>
+      <related>Treasure UDM</related>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+{R}, {T}, Discard a card: Create a tapped Treasure token.</text>
+    </card>
+    <card>
+      <name>RU04 — Revelation Seer</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Breakthrough — At the beginning of each end step, if you’ve spent seven or more mana this turn, draw 2 cards.</text>
+    </card>
+    <card>
+      <name>RU05 — Sage of Dismissal</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, return target nonland permanent an opponent controls to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>RU06 — Roiling Nimbus</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UUU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Roiling Nimbus attacks, you may pay 2U. If you do, up to two target creatures you control gain flying until end of turn.</text>
+    </card>
+    <card>
+      <name>RU07 — Modernity</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UUU</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, if it has one or more targets, you may choose an additional target.
+Whenever you cast a blue spell, surveil 2.</text>
+    </card>
+    <card>
+      <name>RU08 — Borrowed Epiphany</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player reveals the top seven cards of their library. You may cast an instant or sorcery spell from among them without paying its mana cost. Then that player puts the rest into their graveyard.</text>
+    </card>
+    <card>
+      <name>RU09 — Emergent Behavior</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a token that’s a copy of target creature you control.
+Breakthrough — At the beginning of the next end step, if you’ve spent seven or more mana this turn, create two tokens that are copies of that creature.</text>
+    </card>
+    <card>
+      <name>RU10 — Disallow</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell, activated ability, or triggered ability. (Mana abilities can’t be targeted.)</text>
+    </card>
+    <card>
+      <name>RU11 — Murai&apos;s Theorem</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+1U|Return up to two target creatures to their owner’s hand.
+1U|Draw a card.
+{U}|Tap or untap target nonland permanent.</text>
+    </card>
+    <card>
+      <name>RB02 — Hexkeeper</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>RB03 — Slayer of Wretches</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2B: Put a +1/+1 counter on Slayer of Wretches. Activate only as a sorcery.
+When Slayer of Wretches dies, destroy target creature with less power than it.</text>
+    </card>
+    <card>
+      <name>RB05 — Haukin, Vourgan Archmage</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>RB06 — Flight of Torments</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+At the beginning of combat on your turn, each opponent discards a card, sacrifices a nonland permanent, or loses 3 life.</text>
+    </card>
+    <card>
+      <name>RB07 — Caustic Indignance</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature if its power is less than or equal to the number of cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>RB08 — Stygian Edict</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a creature with the greatest power among creatures they control.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, each opponent sacrifices two creatures.</text>
+    </card>
+    <card>
+      <name>RB09 — Evocator&apos;s Rites</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{B}, Sacrifice a creature: You draw cards equal to its power and lose that much life.</text>
+    </card>
+    <card>
+      <name>RB11 — Odisa&apos;s Theorem</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{B}|All creatures get -1/-1 until end of turn.
+1B|Target opponent discards a card.
+3B|Search your library for a card, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>RU02 — Memory Bearer</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Memory Bearer dies, search your library for an instant or sorcery card with mana value 2 or less, exile it, then shuffle. As long as that card remains exiled, you may cast it by paying an additional {2}.</text>
+    </card>
+    <card>
+      <name>RR03 — Futurist Partisan</name>
+      <set rarity="rare">UDM</set>
+      <related>Elemental UDM</related>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 3/1 red Elemental creature token with haste. Exile it at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>RR06 — Assault Wyrm</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Assault Wyrm attacks, it deals damage equal to the number of attacking creatures you control to target creature or planeswalker an opponent controls.</text>
+    </card>
+    <card>
+      <name>RR07 — Manic Renewal</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player discards their hand, then draws seven cards.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, Manic Renewal deals 4 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>RR09 — Declare Hostilities</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Declare Hostilities deals 3 damage to each creature.
+• Up to two target creatures you control fight target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>RR08 — Bring to Bare</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control gain trample.
+Breakthrough — At the beginning of your first postcombat main phase, if you’ve spent seven or more mana this turn, untap each creature you control that attacked this turn. After this phase, there is an additional combat phase followed by an additional main phase.</text>
+    </card>
+    <card>
+      <name>RR10 — Blazing Plume</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>When you cast Blazing Plume, if X is 6 or greater, copy it. You may choose new targets for the copy.
+Blazing Plume deals X damage to target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>RR11 — Enos&apos;s Theorem</name>
+      <set rarity="rare">UDM</set>
+      <related>Treasure UDM</related>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{R}|Create a tapped Treasure token.
+1R| Draw two cards, then discard a card.
+2R|Deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>RG01 — Selective Nostalgia</name>
+      <set rarity="rare" splitterPath="/RG01 — Selective Nostalgia.png" >UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to three target cards from your graveyard to your hand. Exile Selective Nostalgia.
+---
+(Back): Selective Archive</text>
+      <related attach="transform">Selective Archive</related>
+    </card>
+    <card>
+      <name>Selective Archive</name>
+      <set rarity="rare" splitterPath="/Selective Archive.png" >UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Selective Archive enters the battlefield tapped.
+{T}: Add {G}.
+---
+(Front): RG01 — Selective Nostalgia</text>
+    </card>
+    <card>
+      <name>RG02 — Mana Tender</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color. 
+Whenever you cast a spell with mana value 5 or greater, untap Mana Tender.</text>
+    </card>
+    <card>
+      <name>RG03 — Insurgent Duelist</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on target creature you control.
+{G}, {T}: Target creature you control with a +1/+1 counter on it fights target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>RG04 — Azani, Feram Idealist</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control deals combat damage to a player, untap it.
+5GG: Creatures you control get +2/+2 and gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>RG05 — Seer of Allegiances</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may look at the top card of your library at any time. 
+You may play creature cards from the top of your library.
+Whenever a creature enters the battlefield under your control, if you didn’t cast it from your hand, put a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>RG06 — Veiled Intercessor</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+When Veiled Intercessor enters the battlefield, creatures you control gain hexproof and indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>RG07 — Deadwood Titan</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>9/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+As long as its your turn, Deadwood Titan has indestructible.</text>
+    </card>
+    <card>
+      <name>RG08 — Karst Wurm</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Karst Wurm gets +1/+1 for each card in your hand.
+Whenever a permanent you control becomes the target of a spell or ability an opponent controls, draw two cards.</text>
+    </card>
+    <card>
+      <name>RG09 — Collective Self</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each creature you control. You gain 1 life for each card in your hand.</text>
+    </card>
+    <card>
+      <name>RG10 — Greater Potential</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a card with mana value 5 or greater, reveal it, put it into your hand, then shuffle.
+Breakthrough — At the beginning of the next end step, if you’ve spent seven or more mana this turn, put a creature card from your hand onto the battlefield.</text>
+    </card>
+    <card>
+      <name>RG11 — Wormwood&apos;s Theorem</name>
+      <set rarity="rare">UDM</set>
+      <related>Warrior UDM</related>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{G}|Search your library for a land card and put it into your hand, then shuffle.
+1G|Put a land card from your hand or graveyard onto the battlefield tapped.
+2G|Create a green 0/0 Warrior creature token with “This creature gets +1/+1 for each land you control.”</text>
+    </card>
+    <card>
+      <name>MW01 — Enforce Ideal</name>
+      <set rarity="mythic" splitterPath="/MW01 — Enforce Ideal.png" >UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WWW</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile all attacking creatures target player controls. For each creature exiled this way, its controller creates a 2/2 blue Reflection creature token.
+---
+(Back): Urban Ideal</text>
+      <related attach="transform">Urban Ideal</related>
+    </card>
+    <card>
+      <name>Urban Ideal</name>
+      <set rarity="mythic" splitterPath="/Urban Ideal.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>7</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>If you control two or more other lands, Urban Ideal enters the battlefield tapped.
+{T}: Add {W}.
+---
+(Front): MW01 — Enforce Ideal</text>
+    </card>
+    <card>
+      <name>MW02 — Winged Adjudicator</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Winged Adjudicator enters the battlefield, each player chooses a creature they control. Destroy the rest, except Winged Adjudicator. </text>
+    </card>
+    <card>
+      <name>MW03 — Agrarian Rollout</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for a Plains card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>MU02 — Cloudgully</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Whale </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Cloudgully enters the battlefield or attacks, exile target instant or sorcery spell from your graveyard.
+Whenever Cloudgully deals combat damage to a player, you may cast a spell exiled with Cloudgully without paying its mana cost.</text>
+    </card>
+    <card>
+      <name>MU03 — Roundabout</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UUUU</manacost>
+        <cmc>8</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player shuffles their hand and graveyard into their library, then draws seven cards. End the turn. (Exile all spells and abilities from the stack, including this card. Discard down to your maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)</text>
+    </card>
+    <card>
+      <name>MB01 — Everlasting Umbrage</name>
+      <set rarity="mythic" splitterPath="/MB01 — Everlasting Umbrage.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XXBBB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to X creature cards from your graveyard to the battlefield.
+---
+(Back): Burbling Umbrage</text>
+      <related attach="transform">Burbling Umbrage</related>
+    </card>
+    <card>
+      <name>Burbling Umbrage</name>
+      <set rarity="mythic" splitterPath="/Burbling Umbrage.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>If you control two or more other lands, Burbling Umbrage enters the battlefield tapped.
+{T}: Add {B}.
+---
+(Front): MB01 — Everlasting Umbrage</text>
+    </card>
+    <card>
+      <name>MB03 — Herald of Anguish</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BBBB</manacost>
+        <cmc>9</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>9/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, trample
+You don’t lose the game for having 0 life or less.
+At the beginning of your upkeep, Herald of Anguish deals 9 damage to you.</text>
+    </card>
+    <card>
+      <name>MR01 — Thundering Cataclysm</name>
+      <set rarity="mythic" splitterPath="/MR01 — Thundering Cataclysm.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RRR</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Thundering Cataclysm deals 20 damage divided as you choose among any number of target creatures and/or planeswalkers.
+---
+(Back): Castoff Cataclysm</text>
+      <related attach="transform">Castoff Cataclysm</related>
+    </card>
+    <card>
+      <name>Castoff Cataclysm</name>
+      <set rarity="mythic" splitterPath="/Castoff Cataclysm.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>7</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>If you control two or more other lands, Castoff Cataclysm enters the battlefield tapped.
+{T}: Add {R}.
+---
+(Front): MR01 — Thundering Cataclysm</text>
+    </card>
+    <card>
+      <name>MR02 — Crackling Stormbird</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Breakthrough — At the beginning of each end step, if you spent seven or more mana this turn, return Crackling Stormbird from your graveyard to the battlefield tapped with two +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>MR03 — Forced Feedback</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Forced Feedback deals X damage to target creature or planeswalker, where X is the amount of mana you’ve spent this turn when you cast this spell.</text>
+    </card>
+    <card>
+      <name>MG01 — Disturb the Weald</name>
+      <set rarity="mythic" splitterPath="/MG01 — Disturb the Weald.png" >UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGGG</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put X +1/+1 counters on up to three lands you control. They become green 0/0 Elemental creature tokens with haste.
+---
+(Back): Slumbering Weald</text>
+      <related attach="transform">Slumbering Weald</related>
+    </card>
+    <card>
+      <name>Slumbering Weald</name>
+      <set rarity="mythic" splitterPath="/Slumbering Weald.png" >UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>If you control two or more other lands, Slumbering Weald enters the battlefield tapped.
+{T}: Add {G}.
+---
+(Front): MG01 — Disturb the Weald</text>
+    </card>
+    <card>
+      <name>MG02 — Crucible Greatwurm</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GGGG</manacost>
+        <cmc>10</cmc>
+        <type>Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>12/12</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures lose flying and can’t have or gain flying.
+Creatures you control must be blocked if able.</text>
+    </card>
+    <card>
+      <name>MG03 — Rosewind Memorialist</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Magecraft — Whenever you cast or copy an instant or sorcery spell, return target permanent card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>RM01 — Brilliant Insight </name>
+      <set rarity="rare" splitterPath="/RM01 — Brilliant Insight .png" >UDM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WWWUUU</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You draw 4 cards and gain 4 life.
+---
+(Back): Brilliant Cove</text>
+      <related attach="transform">Brilliant Cove</related>
+    </card>
+    <card>
+      <name>Brilliant Cove</name>
+      <set rarity="rare" splitterPath="/Brilliant Cove.png" >UDM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Brilliant Cove enters the battlefield tapped.
+{T}: Add {W} or {U}.
+---
+(Front): RM01 — Brilliant Insight </text>
+    </card>
+    <card>
+      <name>RM02 — Cathartic Squall</name>
+      <set rarity="rare" splitterPath="/RM02 — Cathartic Squall.png" >UDM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UUUBBB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return each creature to its owner’s hand. Each opponent loses life equal to the number of cards in their hand minus 7.
+---
+(Back): Cathartic Marsh</text>
+      <related attach="transform">Cathartic Marsh</related>
+    </card>
+    <card>
+      <name>Cathartic Marsh</name>
+      <set rarity="rare" splitterPath="/Cathartic Marsh.png" >UDM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cathartic Marsh enters the battlefield tapped.
+{T}: Add {U} or {B}.
+---
+(Front): RM02 — Cathartic Squall</text>
+    </card>
+    <card>
+      <name>RM03 — Smuggler&apos;s Secrets</name>
+      <set rarity="rare" splitterPath="/RM03 — Smuggler's Secrets.png" >UDM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BBBRRR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile up to three cards from your graveyard and/or the top of your library. Until the end of your next turn, you may play those cards.
+---
+(Back): Smuggler&apos;s Hideaway</text>
+      <related attach="transform">Smuggler&apos;s Hideaway</related>
+    </card>
+    <card>
+      <name>Smuggler&apos;s Hideaway</name>
+      <set rarity="rare" splitterPath="/Smuggler's Hideaway.png" >UDM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Smuggler’s Hideaway enters the battlefield tapped.
+{T}: Add {B} or {R}.
+---
+(Front): RM03 — Smuggler&apos;s Secrets</text>
+    </card>
+    <card>
+      <name>RM04 — Vibrant Chord</name>
+      <set rarity="rare" splitterPath="/RM04 — Vibrant Chord.png" >UDM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RRRGGG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a creature card from your hand onto the battlefield. It gets +3/+3 and gains trample and haste. Sacrifice it at the beginning of the next end step.
+---
+(Back): Vibrant Cliffs</text>
+      <related attach="transform">Vibrant Cliffs</related>
+    </card>
+    <card>
+      <name>Vibrant Cliffs</name>
+      <set rarity="rare" splitterPath="/Vibrant Cliffs.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vibrant Cliffs enters the battlefield tapped.
+{T}: Add {R} or {G}.
+---
+(Front): RM04 — Vibrant Chord</text>
+    </card>
+    <card>
+      <name>RM05 — Bountiful Vigil</name>
+      <set rarity="rare" splitterPath="/RM05 — Bountiful Vigil.png" >UDM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GGGWWW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control. Untap them. They gain vigilance and trample until end of turn. 
+---
+(Back): Bountiful Canopy</text>
+      <related attach="transform">Bountiful Canopy</related>
+    </card>
+    <card>
+      <name>Bountiful Canopy</name>
+      <set rarity="rare" splitterPath="/Bountiful Canopy.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bountiful Canopy enters the battlefield tapped.
+{T}: Add {G} or {W}.
+---
+(Front): RM05 — Bountiful Vigil</text>
+    </card>
+    <card>
+      <name>RM06 — Tenebrous Oath</name>
+      <set rarity="rare" splitterPath="/RM06 — Tenebrous Oath.png" >UDM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WWWBBB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Up to three target creatures you control get +3/+0 and gain lifelink and first strike until end of turn.
+---
+(Back): Tenebrous Citadel</text>
+      <related attach="transform">Tenebrous Citadel</related>
+    </card>
+    <card>
+      <name>Tenebrous Citadel</name>
+      <set rarity="rare" splitterPath="/Tenebrous Citadel.png" >UDM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Tenebrous Citadel enters the battlefield tapped.
+{T}: Add {W} or {B}.
+---
+(Front): RM06 — Tenebrous Oath</text>
+    </card>
+    <card>
+      <name>RM07 — Brimming Conduction</name>
+      <set rarity="rare" splitterPath="/RM07 — Brimming Conduction.png" >UDM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UUURRR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until the end of your next turn, whenever you cast an instant or sorcery spell with mana value 5 or less, copy it. You may choose new targets for the copy. 
+---
+(Back): Brimming Pipeworks</text>
+      <related attach="transform">Brimming Pipeworks</related>
+    </card>
+    <card>
+      <name>Brimming Pipeworks</name>
+      <set rarity="rare" splitterPath="/Brimming Pipeworks.png" >UDM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Brimming Pipeworks enters the battlefield tapped.
+{T}: Add {U} or {R}.
+---
+(Front): RM07 — Brimming Conduction</text>
+    </card>
+    <card>
+      <name>RM08 — Grim Exchange</name>
+      <set rarity="rare" splitterPath="/RM08 — Grim Exchange.png" >UDM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BBBGGG</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. When you do, return target creature card with less power from your graveyard to the battlefield tapped.
+---
+(Back): Grim Cradle</text>
+      <related attach="transform">Grim Cradle</related>
+    </card>
+    <card>
+      <name>Grim Cradle</name>
+      <set rarity="rare" splitterPath="/Grim Cradle.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Grim Cradle enters the battlefield tapped.
+{T}: Add {B} or {G}.
+---
+(Front): RM08 — Grim Exchange</text>
+    </card>
+    <card>
+      <name>RM09 — Burning Apotheosis</name>
+      <set rarity="rare" splitterPath="/RM09 — Burning Apotheosis.png" >UDM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RRRWWW</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Burning Apotheosis deals X damage to any target and you gain X life, where X is the number of creatures you control.
+---
+(Back): Burning Expanse</text>
+      <related attach="transform">Burning Expanse</related>
+    </card>
+    <card>
+      <name>Burning Expanse</name>
+      <set rarity="rare" splitterPath="/Burning Expanse.png" >UDM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Burning Expanse enters the battlefield tapped.
+{T}: Add {R} or {W}.
+---
+(Front): RM09 — Burning Apotheosis</text>
+    </card>
+    <card>
+      <name>RM10 — Augmented Clarity</name>
+      <set rarity="rare" splitterPath="/RM10 — Augmented Clarity.png" >UDM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GGGUUU</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a creature, instant, or sorcery card with mana value 5 or less, exile it, then shuffle. You may cast that card without paying its mana cost. If you don’t, put it into your hand.
+---
+(Back): Augmented Nursery</text>
+      <related attach="transform">Augmented Nursery</related>
+    </card>
+    <card>
+      <name>Augmented Nursery</name>
+      <set rarity="rare" splitterPath="/Augmented Nursery.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Augmented Nursery enters the battlefield tapped.
+{T}: Add {G} or {U}.
+---
+(Front): RM10 — Augmented Clarity</text>
+    </card>
+    <card>
+      <name>CA01 — Chromatic Strix</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Bird </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{T}: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>CA02 — Riveted Sentinel</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>7/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Riveted Sentinel enters the battlefield, scry 2.</text>
+    </card>
+    <card>
+      <name>CA05 — Thaumic Saber</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Thaumic Saber enters the battlefield, attach it to target creature you control.
+Equipped creature gets +2/+2 and has vigilance.
+Equip {4}</text>
+    </card>
+    <card>
+      <name>UA04 — Arcane Encylopedia</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, {3}: Draw a card.</text>
+    </card>
+    <card>
+      <name>UA03 — Primed Boomrod</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Primed Boomrod enters the battlefield, draw a card.
+{2}, {T}, Sacrifice Primed Boomrod: The next time you cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>UA02 — Automated Warplow</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>7/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Automated Warplow attacks each turn if able.
+When Automated Warplow dies, draw a card.</text>
+    </card>
+    <card>
+      <name>RA01 — Voltaic Hellkite</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{2}: Voltaic Hellkite gets +1/+0 until end of turn.
+{4}: Draw a card. Activate only if an opponent was dealt damage this turn.</text>
+    </card>
+    <card>
+      <name>RA02 — Resonant Spellblade</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{X}: Equipped creature gets +X/+0 until end of turn.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>RA03 — Apocalypse Spire</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Apocalypse Spire enters the battlefield, draw a card.
+{7}, {T}: Apocalypse Spire deals 10 damage to target creature.</text>
+    </card>
+    <card>
+      <name>RL01 — Heart of Undaum</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}
+Breakthrough — {T}: Draw a card, then discard a card. Activate only if you’ve spent seven or more mana this turn.</text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set rarity="">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set rarity="">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set rarity="">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>MX04 — Enos, Multaen Futurist</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>MX04 — Enos, Multaen Futurist has power and toughness equal to the number of creatures you control.
+Whenever MX04 — Enos attacks, for each other attacking creature, he gets your choice of flying, first strike, hexproof, indestructible, lifelink, menace, or trample until end of turn.</text>
+    </card>
+    <card>
+      <name>MX01 — Helis Aurim</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Helis </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Tap target creature and put a stun counter on it. Scry 1.
+[-3]: You draw two cards and gain 2 life.
+[-9]: You get an emblem with “Creatures you control get +1/+1 for each card in your hand.”</text>
+    </card>
+    <card>
+      <name>CA03 — Arcane Cartography</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Arcane Cartography enters the battlefield tapped. When it does, scry 1.
+{2}, {T}, Sacrifice Arcane Cartography: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>CL01 — Radiant Fountain</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When Radiant Fountain enters the battlefield, you gain 2 life.
+{T}: Add {C}.</text>
+    </card>
+    <card>
+      <name>CB01 — Arrogant Magistocrat</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>CB02 — Canal Sleuth</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2B: Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>CU19 — Cerebral Stimulus</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{U}|Scry 2.
+2U|Draw two cards.</text>
+    </card>
+    <card>
+      <name>CR19 — Universal Dynamism</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+1{R}|Target creature gets +2/+0 until end of turn.
+{R}|Target creature can’t block this turn.</text>
+    </card>
+    <card>
+      <name>CG19 — Promising Growth</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+1G| Put two +1/+1 counters on target creature you control.
+{G}| Target creature you control gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>CW19 — Auric Stratagem</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{W}|Target creature gains first strike until end of turn.
+{W}|Put a +1/+1 counter on target creature you control.</text>
+    </card>
+    <card>
+      <name>UL01 — Magister Academy</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Magister Academy enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.</text>
+    </card>
+    <card>
+      <name>CR05 — Multaeus Invoker</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{8}: Up to two target creatures each get +2/+0 and gain first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CG05 — Feram Invoker</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{8}: Target creature becomes 8/8 and gains vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>UW04 — Sigiled Riposte</name>
+      <set rarity="uncommon" splitterPath="/UW04 — Sigiled Riposte.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+6 until end of turn. Untap it.
+---
+(Back): Sigled Battlement</text>
+      <related attach="transform">Sigled Battlement</related>
+    </card>
+    <card>
+      <name>Sigled Battlement</name>
+      <set rarity="uncommon" splitterPath="/Sigled Battlement.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sigled Battlement enters the battlefield tapped.
+{T}: Add {W}.
+---
+(Front): UW04 — Sigiled Riposte</text>
+    </card>
+    <card>
+      <name>UW02 — Storied Justice</name>
+      <set rarity="uncommon" splitterPath="/UW02 — Storied Justice.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Storied Justice deals 3 damage to target attacking or blocking creature.
+---
+(Back): Storied Halls</text>
+      <related attach="transform">Storied Halls</related>
+    </card>
+    <card>
+      <name>Storied Halls</name>
+      <set rarity="uncommon" splitterPath="/Storied Halls.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Storied Halls enters the battlefield tapped.
+{T}: Add {W}.
+---
+(Front): UW02 — Storied Justice</text>
+    </card>
+    <card>
+      <name>UW01 — Duskwold Veteran</name>
+      <set rarity="uncommon" splitterPath="/UW01 — Duskwold Veteran.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike (This creature deals both first-strike and regular combat damage.)
+---
+(Back): Duskwold Scrubland</text>
+      <related attach="transform">Duskwold Scrubland</related>
+    </card>
+    <card>
+      <name>Duskwold Scrubland</name>
+      <set rarity="uncommon" splitterPath="/Duskwold Scrubland.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Duskwold Scrubland enters the battlefield tapped.
+{T}: Add {W}.
+---
+(Front): UW01 — Duskwold Veteran</text>
+    </card>
+    <card>
+      <name>UU01 — Anatokos Sentinel</name>
+      <set rarity="uncommon" splitterPath="/UU01 — Anatokos Sentinel.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as it’s your turn, Anatokos Sentinel has flying.
+---
+(Back): Anatokos Monument</text>
+      <related attach="transform">Anatokos Monument</related>
+    </card>
+    <card>
+      <name>Anatokos Monument</name>
+      <set rarity="uncommon" splitterPath="/Anatokos Monument.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Anatokos Monument enters the battlefield tapped.
+{T}: Add {U}.
+---
+(Front): UU01 — Anatokos Sentinel</text>
+    </card>
+    <card>
+      <name>UU02 — Brackish Retort</name>
+      <set rarity="uncommon" splitterPath="/UU02 — Brackish Retort.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target spell to its owner’s hand.
+---
+(Back): Brackish Coastline</text>
+      <related attach="transform">Brackish Coastline</related>
+    </card>
+    <card>
+      <name>Brackish Coastline</name>
+      <set rarity="uncommon" splitterPath="/Brackish Coastline.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Brackish Coastline enters the battlefield tapped.
+{T}: Add {U}.
+---
+(Front): UU02 — Brackish Retort</text>
+    </card>
+    <card>
+      <name>UB04 — Sleuth&apos;s Cunning</name>
+      <set rarity="uncommon" splitterPath="/UB04 — Sleuth's Cunning.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gets +1/+0 and gains indestructible until end of turn. Tap it.
+---
+(Back): Sleuth&apos;s Hideout</text>
+      <related attach="transform">Sleuth&apos;s Hideout</related>
+    </card>
+    <card>
+      <name>Sleuth&apos;s Hideout</name>
+      <set rarity="uncommon" splitterPath="/Sleuth's Hideout.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Sleuth’s Hideout enters the battlefield tapped.
+{T}: Add {B}.
+---
+(Front): UB04 — Sleuth&apos;s Cunning</text>
+    </card>
+    <card>
+      <name>UB03 — Malignant End</name>
+      <set rarity="uncommon" splitterPath="/UB03 — Malignant End.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature.
+---
+(Back): Malignant Sump</text>
+      <related attach="transform">Malignant Sump</related>
+    </card>
+    <card>
+      <name>Malignant Sump</name>
+      <set rarity="uncommon" splitterPath="/Malignant Sump.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>7</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Malignant Sump enters the battlefield tapped.
+{T}: Add {B}.
+---
+(Front): UB03 — Malignant End</text>
+    </card>
+    <card>
+      <name>UG02 — Rosewind Boon</name>
+      <set rarity="uncommon" splitterPath="/UG02 — Rosewind Boon.png" >UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains trample until end of turn.
+---
+(Back): Rosewind Estate</text>
+      <related attach="transform">Rosewind Estate</related>
+    </card>
+    <card>
+      <name>Rosewind Estate</name>
+      <set rarity="uncommon" splitterPath="/Rosewind Estate.png" >UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Rosewind Estate enters the battlefield tapped.
+{T}: Add {G}.
+---
+(Front): UG02 — Rosewind Boon</text>
+    </card>
+    <card>
+      <name>UR03 — Toilfield Expedition</name>
+      <set rarity="uncommon" splitterPath="/UR03 — Toilfield Expedition.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards, then discard two cards.
+---
+(Back): Toilfield Caldera</text>
+      <related attach="transform">Toilfield Caldera</related>
+    </card>
+    <card>
+      <name>Toilfield Caldera</name>
+      <set rarity="uncommon" splitterPath="/Toilfield Caldera.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Toilfield Caldera enters the battlefield tapped.
+{T}: Add {R}.
+---
+(Front): UR03 — Toilfield Expedition</text>
+    </card>
+    <card>
+      <name>UG01 — Thorncrest Mauler</name>
+      <set rarity="uncommon" splitterPath="/UG01 — Thorncrest Mauler.png" >UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your upkeep, put a +1/+1 counter on Thorncrest Mauler.
+---
+(Back): Thorncrest Lodge</text>
+      <related attach="transform">Thorncrest Lodge</related>
+    </card>
+    <card>
+      <name>Thorncrest Lodge</name>
+      <set rarity="uncommon" splitterPath="/Thorncrest Lodge.png" >UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Thorncrest Lodge enters the battlefield tapped.
+{T}: Add {G}.
+---
+(Front): UG01 — Thorncrest Mauler</text>
+    </card>
+    <card>
+      <name>MX05 — Murai, Bioarcanist</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>4GU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You have no maximum hand size.
+Whenever you cast a creature or sorcery spell, you may draw cards up to its mana value.</text>
+    </card>
+    <card>
+      <name>MX03 — Wormwood, the Scholar</name>
+      <set rarity="mythic">UDM</set>
+      <related>Rogue UDM</related>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Lettie </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Up to one target creature you control gets +2/+0 until end of turn. If it dies this turn, draw a card.
+[-1]: Create a 2/1 black Rogue creature token with “This creature can’t block.” Each opponent loses 1 life.
+[-7]: Each opponent sacrifices half the number of permanents they control, rounded up.</text>
+    </card>
+    <card>
+      <name>MX02 — Odisa, Fierce Conduit</name>
+      <set rarity="mythic">UDM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, when you cast a creature, instant, or sorcery spell, you may pay life equal to that spell’s mana value. If you do, add {B} and/or {R} in any combination equal to that spell’s mana value. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>RB10 — Final Flickering</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Destroy target creature or planeswalker.
+• Return target creature or planeswalker from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>UR01 — Bristling Manticore</name>
+      <set rarity="uncommon" splitterPath="/UR01 — Bristling Manticore.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Manticore </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, Bristling Manticore gets your choice of first strike or +1/+1 until end of turn.
+---
+(Back): Bristling Cliffs</text>
+      <related attach="transform">Bristling Cliffs</related>
+    </card>
+    <card>
+      <name>Bristling Cliffs</name>
+      <set rarity="uncommon" splitterPath="/Bristling Cliffs.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Bristling Cliffs enters the battlefield tapped.
+{T}: Add {R}.
+---
+(Front): UR01 — Bristling Manticore</text>
+    </card>
+    <card>
+      <name>RW01 — Luminous Sovereign</name>
+      <set rarity="rare" splitterPath="/RW01 — Luminous Sovereign.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WWW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+---
+(Back): Luminous Archive</text>
+      <related attach="transform">Luminous Archive</related>
+    </card>
+    <card>
+      <name>Luminous Archive</name>
+      <set rarity="rare" splitterPath="/Luminous Archive.png" >UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Luminous Archive enters the battlefield tapped.
+{T}: Add {W}.
+---
+(Front): RW01 — Luminous Sovereign</text>
+    </card>
+    <card>
+      <name>UU04 — Boreal Barrier</name>
+      <set rarity="uncommon" splitterPath="/UU04 — Boreal Barrier.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Defender
+---
+(Back): Boreal Expanse</text>
+      <related attach="transform">Boreal Expanse</related>
+    </card>
+    <card>
+      <name>Boreal Expanse</name>
+      <set rarity="uncommon" splitterPath="/Boreal Expanse.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Boreal Expanse enters the battlefield tapped.
+{T}: Add {U}.
+---
+(Front): UU04 — Boreal Barrier</text>
+    </card>
+    <card>
+      <name>RB01 — Aberrant Existence</name>
+      <set rarity="rare" splitterPath="/RB01 — Aberrant Existence.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each creature, that creature’s controller sacrifices it unless they pay {1}.
+---
+(Back): Aberrant Tower</text>
+      <related attach="transform">Aberrant Tower</related>
+    </card>
+    <card>
+      <name>Aberrant Tower</name>
+      <set rarity="rare" splitterPath="/Aberrant Tower.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Aberrant Tower enters the battlefield tapped.
+{T}: Add {B}.
+---
+(Front): RB01 — Aberrant Existence</text>
+    </card>
+    <card>
+      <name>UB01 — Farseri Scavenger</name>
+      <set rarity="uncommon" splitterPath="/UB01 — Farseri Scavenger.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+---
+(Back): Farseri Bog</text>
+      <related attach="transform">Farseri Bog</related>
+    </card>
+    <card>
+      <name>Farseri Bog</name>
+      <set rarity="uncommon" splitterPath="/Farseri Bog.png" >UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Farseri Bog enters the battlefield tapped.
+{T}: Add {B}.
+---
+(Front): UB01 — Farseri Scavenger</text>
+    </card>
+    <card>
+      <name>RR01 — Energetic Blockbuster</name>
+      <set rarity="rare" splitterPath="/RR01 — Energetic Blockbuster.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Energetic Blockbuster attacks, double its power until end of turn.
+---
+(Back): Energetic Array</text>
+      <related attach="transform">Energetic Array</related>
+    </card>
+    <card>
+      <name>Energetic Array</name>
+      <set rarity="rare" splitterPath="/Energetic Array.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Energetic Array enters the battlefield tapped.
+{T}: Add {R}.
+---
+(Front): RR01 — Energetic Blockbuster</text>
+    </card>
+    <card>
+      <name>UR02 — Faultline Testing</name>
+      <set rarity="uncommon" splitterPath="/UR02 — Faultline Testing.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Faultline Testing deals 2 damage to each creature without flying.
+---
+(Back): Faultline Gorge</text>
+      <related attach="transform">Faultline Gorge</related>
+    </card>
+    <card>
+      <name>Faultline Gorge</name>
+      <set rarity="uncommon" splitterPath="/Faultline Gorge.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Faultline Gorge enters the battlefield tapped.
+{T}: Add {R}.
+---
+(Front): UR02 — Faultline Testing</text>
+    </card>
+    <card>
+      <name>MU01 — Ponder Eternity</name>
+      <set rarity="mythic" splitterPath="/MU01 — Ponder Eternity.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UUU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Take an extra turn after this one. Exile Ponder Eternity.
+---
+(Back): Captured Eternity</text>
+      <related attach="transform">Captured Eternity</related>
+    </card>
+    <card>
+      <name>Captured Eternity</name>
+      <set rarity="mythic" splitterPath="/Captured Eternity.png" >UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>7</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>If you control two or more other lands, Captured Eternity enters the battlefield tapped.
+{T}: Add {U}.
+---
+(Front): MU01 — Ponder Eternity</text>
+    </card>
+    <card>
+      <name>CU18 — Reconsider</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one — 
+• Counter target spell unless its controller pays {2}.
+• Draw a card.</text>
+    </card>
+    <card>
+      <name>UM01 — Empyrean Strategist</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Angel Wizard </type>
+        <maintype>Creature</maintype>
+        <pt> 2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Empyrean Strategist or another nontoken creature you control dies, create a tapped 2/2 blue Reflection creature token.</text>
+    </card>
+    <card>
+      <name>UM02 — Basilica Archivist</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>1UB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Basilica Archivist enters the battlefield, surveil 2.
+3UB, Discard a card: Cast target instant or sorcery card from your graveyard without paying its mana cost, then exile it.</text>
+    </card>
+    <card>
+      <name>UM03 — Mageblade Striker</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Magecraft — Whenever you cast or copy an instant or sorcery spell, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>UM04 — Scorched Lavawheel</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{G}, {T}, Discard a card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{R}, {T}, Discard a land card: Draw two cards.</text>
+    </card>
+    <card>
+      <name>UM05 — Natural Guardian</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>4GW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+2GW: Put a +1/+1 counter on each untapped creature you control. Activate only as a sorcery and only once during your turn.</text>
+    </card>
+    <card>
+      <name>UM06 — Duskwold Persecutor</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Whenever you cast a spell that targets one or more creatures you control, draw a card.</text>
+    </card>
+    <card>
+      <name>UM07 — Reckless Enthusiam</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, exile the top card of your library. You may play it this turn.
+Breakthrough — If you’ve spent seven or more mana this turn, you may cast up to one spell without paying its mana cost this turn.</text>
+    </card>
+    <card>
+      <name>UM08 — Shadow Patron</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control with power 4 or greater have trample.
+3BG: Creatures you control get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>UM09 — Castoff Sentinel</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Creatures - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack with one or more creatures, creatures you control get +1/+0.
+Whenever you block with one more creatures, creatures you control get +0/+1.</text>
+    </card>
+    <card>
+      <name>UM10 — Lifepath Renegade</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast a spell with mana value 5 or greater, draw a card.</text>
+    </card>
+    <card>
+      <name>CU10 — Reconstitute</name>
+      <set rarity="common">UDM</set>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature you control to its owner’s hand.
+Create a 2/2 blue Reflection creature token.</text>
+    </card>
+    <card>
+      <name>CR06 — Toilfield Stoker</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Magecraft  — Whenever you cast or copy an instant or sorcery spell, Toilfield Stoker gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR18 — Conscript</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Gain control of target creature until end of turn. Untap it. It gets +1/+0 and gains trample and haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CR17 — Galvanic Rebuttal</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or planeswalker you don’t control.</text>
+    </card>
+    <card>
+      <name>UW14 — Ascendant Path</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Human Angel UDM</related>
+      <related>Reflection UDM</related>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+1W|Create a 2/2 blue Reflection creature token.
+3W|Create a 4/4 white Human Angel creature token with flying.</text>
+    </card>
+    <card>
+      <name>UU14 — Aerodynamics</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{U}|Target creature gains flying until end of turn.
+{U}|Target creature is 3/3 until end of turn</text>
+    </card>
+    <card>
+      <name>UB15 — Abstraction of Pride</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As you cast this spell, you may pay 1B. If you do, copy it.
+Each opponent discards a card, sacrifices a nonland permanent, or loses 3 life.</text>
+    </card>
+    <card>
+      <name>UG15 — Abstraction of Self</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As you cast this spell, you may pay 1G. If you do, copy it.
+You gain 2 life. 
+Draw a card.</text>
+    </card>
+    <card>
+      <name>UU10 — Skyward Abjurant</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature you control gains flying until end of turn. If that creature already has flying, put a +1/+1 counter on it instead.</text>
+    </card>
+    <card>
+      <name>CU04 — Aqueous Shaper</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on Aqueous Shaper.</text>
+    </card>
+    <card>
+      <name>UW15 — Abstraction of Glory</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As you cast this spell, you may pay 1W. If you do, copy it. You may choose new targets for the copy.
+Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>UU15 — Abstraction of Reason</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As you cast this spell, you may pay 1U. If you do, copy it.
+Surveil 2, then draw a card. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>UB14 — Will to Power</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+1B|Target creature gets -2/-2 until end of turn.
+1B|Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>UG14 — Captured Recollection</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+2G|Return target permanent card from your graveyard to your hand.
+1G|You gain 2 life for each card in your hand.</text>
+    </card>
+    <card>
+      <name>UR15 — Abstraction of Desire</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As you cast this spell, you may pay 1R. If you do, copy it. You may choose new targets for the copy.
+Target creature gets +1/+0 and gains first strike until end of turn.</text>
+    </card>
+    <card>
+      <name>CB13 — Political Maneuver</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature that was dealt damage this turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CB12 — Into the Abyss</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>MB02 — Thirteenth Columnist</name>
+      <set rarity="mythic">UDM</set>
+      <related>Rogue UDM</related>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your end step, each opponent creates a 2/1 black Rogue creature token with “This creature can’t block.”
+At the beginning of your upkeep, if an opponent controls thirteen or more creatures, that player loses the game.</text>
+    </card>
+    <card>
+      <name>CB11 — Discorporate</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature you control gets +3/+0 and gains “When this creature dies, return it to the battlefield under its owner’s control.”</text>
+    </card>
+    <card>
+      <name>CB18 — Duress</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>CA04 — Glove of Evocation</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Magecraft — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on equipped creature.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>UR14 — Ignite Possibility</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+{R}| Exile the top card of your library. Until the end of your next turn, you may play that card.
+2R| Copy the next instant or sorcery spell you cast this turn. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>CB19 — Hazardous Research</name>
+      <set rarity="common">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Formulate (Choose the first mode, then choose additional modes by paying their costs. You may choose the same mode more than once.)
+1B|You draw a card and you lose 1 life.
+1B|Target opponent discards a card.</text>
+    </card>
+    <card>
+      <name>UG03 — Cantabar Resurgence</name>
+      <set rarity="uncommon" splitterPath="/UG03 — Cantabar Resurgence.png" >UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put three +1/+1 counters on target creature you control.
+---
+(Back): Cantabar Overgrowth</text>
+      <related attach="transform">Cantabar Overgrowth</related>
+    </card>
+    <card>
+      <name>Cantabar Overgrowth</name>
+      <set rarity="uncommon" splitterPath="/Cantabar Overgrowth.png" >UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Cantabar Overgrowth enters the battlefield tapped.
+{T}: Add {G}.
+---
+(Front): UG03 — Cantabar Resurgence</text>
+    </card>
+    <card>
+      <name>UG04 — Vermur Thrash</name>
+      <set rarity="uncommon" splitterPath="/UG04 — Vermur Thrash.png" >UDM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature an opponent controls.
+---
+(Back): Vermur Clearing</text>
+      <related attach="transform">Vermur Clearing</related>
+    </card>
+    <card>
+      <name>Vermur Clearing</name>
+      <set rarity="uncommon" splitterPath="/Vermur Clearing.png" >UDM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Vermur Clearing enters the battlefield tapped.
+{T}: Add {G}.
+---
+(Front): UG04 — Vermur Thrash</text>
+    </card>
+    <card>
+      <name>UR04 — Procula Sabotage</name>
+      <set rarity="uncommon" splitterPath="/UR04 — Procula Sabotage.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Procula Sabotage deals 5 damage to target player.
+---
+(Back): Procula Quarter</text>
+      <related attach="transform">Procula Quarter</related>
+    </card>
+    <card>
+      <name>Procula Quarter</name>
+      <set rarity="uncommon" splitterPath="/Procula Quarter.png" >UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Procula Quarter enters the battlefield tapped.
+{T}: Add {R}.
+---
+(Front): UR04 — Procula Sabotage</text>
+    </card>
+    <card>
+      <name>UR06 — Orders Received</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Rogue UDM</related>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two black 2/1 Rogue creature tokens with “This creature can’t block.”</text>
+    </card>
+    <card>
+      <name>UU13 — Decipher</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards, then discard two cards.
+Breakthrough — At the beginning of the next end step, if you spent seven or more mana this turn, return target instant or sorcery spell not named Decipher from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>RR04 — Esther, Mageblade Lieutenant</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>*/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Esther, Mageblade Lieutenant’s power is equal to the amount of mana you’ve spent this turn.
+At the beginning of your upkeep, exile the top two cards of your library, then choose one. You may play that card until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>UU11 — Thaumic Expulsion</name>
+      <set rarity="uncommon">UDM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return up to three target creatures your opponents control to their owner’s hands. Scry 1.</text>
+    </card>
+    <card>
+      <name>RR05 — Egoling</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{1}: Egoling gets +1/-1 or -1/+1 until end of turn.
+{R}: Change the target of target spell that targets only Egoling to another permanent you control.
+1R: Egoling gains trample until end of turn.
+3R: Egoling gains double strike until end of turn.</text>
+    </card>
+    <card>
+      <name>RB04 — Duskwold Spellcutter</name>
+      <set rarity="rare">UDM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever Duskwold Spellcutter deals combat damage to a player, exile target instant or sorcery card from a graveyard. As long as it remains exiled, you may cast that card and spend mana as if it were mana of any color to cast it.</text>
+    </card>
+    <card>
+      <name>UA01 — Stinger Simulacra</name>
+      <set rarity="uncommon">UDM</set>
+      <related>Insect UDM</related>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Stinger Simulacra enters the battlefield, create a colorless 1/1 Insect artifact creature token with flying.
+{3}, {T}: Create a colorless 1/1 Insect artifact creature token with flying.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Soldier UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human Angel UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Human Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Reflection UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors>U</colors>
+        <type>Token Creature - Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Rogue UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature can’t block.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Elemental UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Insect UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Warrior UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors>G</colors>
+        <type>Token Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature gets +1/+1 for each land you control.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Treasure UDM</name>
+      <set>UDM</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
