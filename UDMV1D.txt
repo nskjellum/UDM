@@ -3329,9 +3329,9 @@
 		30 CA04 — Glove of Evocation
 		30 CB19 — Hazardous Research
 	[BasicSlot(1)]
-		3 Plains
-		3 Island
-		3 Swamp
-		3 Mountain
-		3 Forest
+		50 Plains
+		50 Island
+		50 Swamp
+		50 Mountain
+		50 Forest
 	
