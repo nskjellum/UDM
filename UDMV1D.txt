@@ -5,7 +5,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Elemental Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW01 — Roc of the Valley.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW01 — Roc of the Valley.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW02 — Ardent Magus.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW02 — Ardent Magus.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW03 — Plaza Enforcer.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW03 — Plaza Enforcer.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Dog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW04 — Ward Hound.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW04 — Ward Hound.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Angel Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW06 — Awakened Initiate.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW06 — Awakened Initiate.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW08 — Chapel Persecutor.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW08 — Chapel Persecutor.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW07 — Secure the Perimeter.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW07 — Secure the Perimeter.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW05 — Aurterran Invoker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW05 — Aurterran Invoker.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW09 — Chaplain of Resolve.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW09 — Chaplain of Resolve.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW10 — Balmrunner.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW10 — Balmrunner.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Unicorn ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW11 — Hinterland Courser.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW11 — Hinterland Courser.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW12 — Prior Knowledge.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW12 — Prior Knowledge.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW13 — Templar's Finale.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW13 — Templar's Finale.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW14 — March into History.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW14 — March into History.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW15 — Reflected Resolve.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW15 — Reflected Resolve.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW16 — Holding Spell.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW16 — Holding Spell.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW18 — Argent Unmaking.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW18 — Argent Unmaking.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW17 — Detain.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW17 — Detain.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU01 — Drake Runt.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU01 — Drake Runt.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU02 — Flow Seeress.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU02 — Flow Seeress.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU06 — Eager Disciple.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU06 — Eager Disciple.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU05 — Ormuri Invoker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU05 — Ormuri Invoker.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU03 — Mortal Conjurant.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU03 — Mortal Conjurant.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Elemental Turtle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU07 — Winged Aegis.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU07 — Winged Aegis.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Fish Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU08 — Coastal Lurker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU08 — Coastal Lurker.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU09 — Iridescent Drake.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU09 — Iridescent Drake.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU11 — Mage's Warding.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU11 — Mage's Warding.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU12 — Arcane Consultation.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU12 — Arcane Consultation.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU13 — Space Between.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU13 — Space Between.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU14 — Visionary Research.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU14 — Visionary Research.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU15 — Thaumaturge's Gambit.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU15 — Thaumaturge's Gambit.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU16 — High Alarum.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU16 — High Alarum.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU17 — Focused Study.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU17 — Focused Study.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB03 — Cloister Keepers.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB03 — Cloister Keepers.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB04 — Castoff Wretch.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB04 — Castoff Wretch.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB05 — Vourgan Invoker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB05 — Vourgan Invoker.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB06 — Reckless Assailant.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB06 — Reckless Assailant.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB16 — Spellbound Familiar.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB16 — Spellbound Familiar.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB08 — Vis Manipulator.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB08 — Vis Manipulator.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB09 — Duskwold Warden.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB09 — Duskwold Warden.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB10 — Soulforged Rager.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB10 — Soulforged Rager.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB14 — Vis Rend.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB14 — Vis Rend.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB15 — Vile Renewal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB15 — Vile Renewal.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Bat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB07 — Mire Drowner.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB07 — Mire Drowner.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB17 — Tools of the Trade.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB17 — Tools of the Trade.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR01 — Renegade Technician.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR01 — Renegade Technician.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR02 — Charged Runner.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR02 — Charged Runner.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR07 — Igneous Catalyst.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR07 — Igneous Catalyst.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR04 — Dune Stinger.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR04 — Dune Stinger.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Elemental Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR03 — Molten Lavacat.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR03 — Molten Lavacat.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR08 — Mageblade Recruit.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR08 — Mageblade Recruit.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR09 — Procula Marshal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR09 — Procula Marshal.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR10 — Flamewheel Ritualist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR10 — Flamewheel Ritualist.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR11 — Bring Down.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR11 — Bring Down.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR12 — Rev Up.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR12 — Rev Up.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR13 — Bolt of Inspiration.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR13 — Bolt of Inspiration.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR14 — Seismic Stroke.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR14 — Seismic Stroke.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR15 — Stream of Consciousness.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR15 — Stream of Consciousness.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR16 — Scorching Ray.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR16 — Scorching Ray.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG01 — Novite Cataloguer.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG01 — Novite Cataloguer.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG02 — Vital Keeper.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG02 — Vital Keeper.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG09 — Migratory Striders.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG09 — Migratory Striders.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Plant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG04 — Writhing Rafflesia.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG04 — Writhing Rafflesia.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Plant Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG06 — Grassy Lynxes.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG06 — Grassy Lynxes.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Dog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG07 — Preserve Hound.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG07 — Preserve Hound.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG08 — Chronicler of Change.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG08 — Chronicler of Change.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Elk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG10 — Endangered Pronghorn.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG10 — Endangered Pronghorn.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG03 — Enlisted Warden.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG03 — Enlisted Warden.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG11 — Canopy Grappler.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG11 — Canopy Grappler.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG12 — Circle of Strife.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG12 — Circle of Strife.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG13 — Regenerative Sinew.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG13 — Regenerative Sinew.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG14 — Collective Wisdom.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG14 — Collective Wisdom.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG15 — Nature's Resurgence.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG15 — Nature's Resurgence.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG16 — Disarming Mist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG16 — Disarming Mist.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG17 — Explosive Sowing.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG17 — Explosive Sowing.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG18 — Sylvan Rebuttal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG18 — Sylvan Rebuttal.png"
 	        }
 	    },
 	    {
@@ -688,7 +688,7 @@
 	        "mana_cost": "{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW03 — Sunlit Strength.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW03 — Sunlit Strength.png"
 	        },
 	        "printed names": {
 	            "en": "UW03 — Sunlit Strength"
@@ -699,7 +699,7 @@
 	                "en": "Sunlit Hills"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Sunlit Hills.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Sunlit Hills.png"
 	            },
 	            "type": "Land"
 	        }
@@ -710,7 +710,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW05 — Autarch's Guard.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW05 — Autarch's Guard.png"
 	        }
 	    },
 	    {
@@ -719,7 +719,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW06 — Dawn's Pride.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW06 — Dawn's Pride.png"
 	        }
 	    },
 	    {
@@ -728,7 +728,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW07 — Chaplain of Change.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW07 — Chaplain of Change.png"
 	        }
 	    },
 	    {
@@ -737,7 +737,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Chimera ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW09 — Regal Sentinel.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW09 — Regal Sentinel.png"
 	        }
 	    },
 	    {
@@ -746,7 +746,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW08 — Defiant Hexblade.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW08 — Defiant Hexblade.png"
 	        }
 	    },
 	    {
@@ -755,7 +755,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW10 — Lightwarden.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW10 — Lightwarden.png"
 	        }
 	    },
 	    {
@@ -764,7 +764,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW11 — Radiant Marshal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW11 — Radiant Marshal.png"
 	        }
 	    },
 	    {
@@ -773,7 +773,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW12 — Angelify.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW12 — Angelify.png"
 	        }
 	    },
 	    {
@@ -782,7 +782,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW13 — Tangibile Virtue.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW13 — Tangibile Virtue.png"
 	        }
 	    },
 	    {
@@ -790,7 +790,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU03 — Rhimeland Expulsion.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU03 — Rhimeland Expulsion.png"
 	        },
 	        "printed names": {
 	            "en": "UU03 — Rhimeland Expulsion"
@@ -801,7 +801,7 @@
 	                "en": "Rhimeland Outpost"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Rhimeland Outpost.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Rhimeland Outpost.png"
 	            },
 	            "type": "Land"
 	        }
@@ -812,7 +812,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Illusion ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU05 — Murkminder.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU05 — Murkminder.png"
 	        }
 	    },
 	    {
@@ -821,7 +821,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU06 — Arcaniform Conduit.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU06 — Arcaniform Conduit.png"
 	        }
 	    },
 	    {
@@ -830,7 +830,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU07 — Illusory Egotist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU07 — Illusory Egotist.png"
 	        }
 	    },
 	    {
@@ -839,7 +839,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU08 — Grandiose Conjurer.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU08 — Grandiose Conjurer.png"
 	        }
 	    },
 	    {
@@ -848,7 +848,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU09 — Glacial Grappler.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU09 — Glacial Grappler.png"
 	        }
 	    },
 	    {
@@ -857,7 +857,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU12 — Capture Wave.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU12 — Capture Wave.png"
 	        }
 	    },
 	    {
@@ -865,7 +865,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB02 — Corpater Ritual.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB02 — Corpater Ritual.png"
 	        },
 	        "printed names": {
 	            "en": "UB02 — Corpater Ritual"
@@ -876,7 +876,7 @@
 	                "en": "Corpater Lowland"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Corpater Lowland.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Corpater Lowland.png"
 	            },
 	            "type": "Land"
 	        }
@@ -887,7 +887,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Reflection ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB05 — Vis Dregs.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB05 — Vis Dregs.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB06 — Violet Persuader.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB06 — Violet Persuader.png"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB07 — Revenant Agent.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB07 — Revenant Agent.png"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB08 — Parlour Guard.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB08 — Parlour Guard.png"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{6}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB09 — Malignant Castoffs.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB09 — Malignant Castoffs.png"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB10 — Hulking Spellfist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB10 — Hulking Spellfist.png"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB11 — Cut Out.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB11 — Cut Out.png"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB12 — Back for More.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB12 — Back for More.png"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB13 — Weight of Expectations.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB13 — Weight of Expectations.png"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR05 — Rustbucket Brawler.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR05 — Rustbucket Brawler.png"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Jellyfish ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR07 — Thunderzoa.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR07 — Thunderzoa.png"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "{5}{R}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR08 — Lava Mongrel.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR08 — Lava Mongrel.png"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR09 — Catalytic Gorger.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR09 — Catalytic Gorger.png"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR10 — Enthusiastic Chemister.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR10 — Enthusiastic Chemister.png"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR11 — Big Score.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR11 — Big Score.png"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "{X}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR12 — Revelatory Ignition.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR12 — Revelatory Ignition.png"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR13 — Identity Crisis.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR13 — Identity Crisis.png"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG05 — Medium of Might.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG05 — Medium of Might.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG06 — Memoir Collector.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG06 — Memoir Collector.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG07 — Celeritous Agent.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG07 — Celeritous Agent.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG08 — Daring Infiltrator.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG08 — Daring Infiltrator.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{6}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG09 — Tangled Harbinger.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG09 — Tangled Harbinger.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG10 — Borderpine Guardian.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG10 — Borderpine Guardian.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG11 — Deadwood Awakener.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG11 — Deadwood Awakener.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG12 — Colossal Majesty.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG12 — Colossal Majesty.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG13 — Sylvan Inheritance.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG13 — Sylvan Inheritance.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW02 — Virtued Lancer.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW02 — Virtued Lancer.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW06 — Witness of Ideals.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW06 — Witness of Ideals.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Creature — Human Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW04 — Liberi, Angelic Paragon.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW04 — Liberi, Angelic Paragon.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW03 — Throne's Influence.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW03 — Throne's Influence.png"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Creature — Human Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW05 — Angelic Responder.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW05 — Angelic Responder.png"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW07 — Rapid Deployment.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW07 — Rapid Deployment.png"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW08 — Under Their Wings.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW08 — Under Their Wings.png"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW09 — Ego Vault.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW09 — Ego Vault.png"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{W}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW10 — Envisioned Ascension.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW10 — Envisioned Ascension.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW11 — Helis's Theorem.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW11 — Helis's Theorem.png"
 	        }
 	    },
 	    {
@@ -1210,7 +1210,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU01 — Reflecting Sigil.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU01 — Reflecting Sigil.png"
 	        },
 	        "printed names": {
 	            "en": "RU01 — Reflecting Sigil"
@@ -1221,7 +1221,7 @@
 	                "en": "Reflecting Waterway"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Reflecting Waterway.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Reflecting Waterway.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1232,7 +1232,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU03 — Detlav, Arcanamedician.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU03 — Detlav, Arcanamedician.png"
 	        }
 	    },
 	    {
@@ -1241,7 +1241,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR02 — Thaumtech Runner.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR02 — Thaumtech Runner.png"
 	        }
 	    },
 	    {
@@ -1250,7 +1250,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU04 — Revelation Seer.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU04 — Revelation Seer.png"
 	        }
 	    },
 	    {
@@ -1259,7 +1259,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU05 — Sage of Dismissal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU05 — Sage of Dismissal.png"
 	        }
 	    },
 	    {
@@ -1268,7 +1268,7 @@
 	        "mana_cost": "{3}{U}{U}{U}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU06 — Roiling Nimbus.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU06 — Roiling Nimbus.png"
 	        }
 	    },
 	    {
@@ -1277,7 +1277,7 @@
 	        "mana_cost": "{U}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU07 — Modernity.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU07 — Modernity.png"
 	        }
 	    },
 	    {
@@ -1286,7 +1286,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU08 — Borrowed Epiphany.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU08 — Borrowed Epiphany.png"
 	        }
 	    },
 	    {
@@ -1295,7 +1295,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU09 — Emergent Behavior.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU09 — Emergent Behavior.png"
 	        }
 	    },
 	    {
@@ -1304,7 +1304,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU10 — Disallow.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU10 — Disallow.png"
 	        }
 	    },
 	    {
@@ -1313,7 +1313,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU11 — Murai's Theorem.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU11 — Murai's Theorem.png"
 	        }
 	    },
 	    {
@@ -1322,7 +1322,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB02 — Hexkeeper.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB02 — Hexkeeper.png"
 	        }
 	    },
 	    {
@@ -1331,7 +1331,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB03 — Slayer of Wretches.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB03 — Slayer of Wretches.png"
 	        }
 	    },
 	    {
@@ -1340,7 +1340,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB05 — Haukin, Vourgan Archmage.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB05 — Haukin, Vourgan Archmage.png"
 	        }
 	    },
 	    {
@@ -1349,7 +1349,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB06 — Flight of Torments.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB06 — Flight of Torments.png"
 	        }
 	    },
 	    {
@@ -1358,7 +1358,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB07 — Caustic Indignance.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB07 — Caustic Indignance.png"
 	        }
 	    },
 	    {
@@ -1367,7 +1367,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB08 — Stygian Edict.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB08 — Stygian Edict.png"
 	        }
 	    },
 	    {
@@ -1376,7 +1376,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB09 — Evocator's Rites.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB09 — Evocator's Rites.png"
 	        }
 	    },
 	    {
@@ -1385,7 +1385,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB11 — Odisa's Theorem.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB11 — Odisa's Theorem.png"
 	        }
 	    },
 	    {
@@ -1394,7 +1394,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RU02 — Memory Bearer.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RU02 — Memory Bearer.png"
 	        }
 	    },
 	    {
@@ -1403,7 +1403,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR03 — Futurist Partisan.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR03 — Futurist Partisan.png"
 	        }
 	    },
 	    {
@@ -1412,7 +1412,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR06 — Assault Wyrm.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR06 — Assault Wyrm.png"
 	        }
 	    },
 	    {
@@ -1421,7 +1421,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR07 — Manic Renewal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR07 — Manic Renewal.png"
 	        }
 	    },
 	    {
@@ -1430,7 +1430,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR09 — Declare Hostilities.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR09 — Declare Hostilities.png"
 	        }
 	    },
 	    {
@@ -1439,7 +1439,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR08 — Bring to Bare.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR08 — Bring to Bare.png"
 	        }
 	    },
 	    {
@@ -1448,7 +1448,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR10 — Blazing Plume.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR10 — Blazing Plume.png"
 	        }
 	    },
 	    {
@@ -1457,7 +1457,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR11 — Enos's Theorem.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR11 — Enos's Theorem.png"
 	        }
 	    },
 	    {
@@ -1465,7 +1465,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG01 — Selective Nostalgia.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG01 — Selective Nostalgia.png"
 	        },
 	        "printed names": {
 	            "en": "RG01 — Selective Nostalgia"
@@ -1476,7 +1476,7 @@
 	                "en": "Selective Archive"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Selective Archive.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Selective Archive.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1487,7 +1487,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG02 — Mana Tender.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG02 — Mana Tender.png"
 	        }
 	    },
 	    {
@@ -1496,7 +1496,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG03 — Insurgent Duelist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG03 — Insurgent Duelist.png"
 	        }
 	    },
 	    {
@@ -1505,7 +1505,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG04 — Azani, Feram Idealist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG04 — Azani, Feram Idealist.png"
 	        }
 	    },
 	    {
@@ -1514,7 +1514,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG05 — Seer of Allegiances.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG05 — Seer of Allegiances.png"
 	        }
 	    },
 	    {
@@ -1523,7 +1523,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG06 — Veiled Intercessor.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG06 — Veiled Intercessor.png"
 	        }
 	    },
 	    {
@@ -1532,7 +1532,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG07 — Deadwood Titan.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG07 — Deadwood Titan.png"
 	        }
 	    },
 	    {
@@ -1541,7 +1541,7 @@
 	        "mana_cost": "{6}{G}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG08 — Karst Wurm.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG08 — Karst Wurm.png"
 	        }
 	    },
 	    {
@@ -1550,7 +1550,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG09 — Collective Self.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG09 — Collective Self.png"
 	        }
 	    },
 	    {
@@ -1559,7 +1559,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG10 — Greater Potential.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG10 — Greater Potential.png"
 	        }
 	    },
 	    {
@@ -1568,7 +1568,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RG11 — Wormwood's Theorem.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RG11 — Wormwood's Theorem.png"
 	        }
 	    },
 	    {
@@ -1576,7 +1576,7 @@
 	        "mana_cost": "{4}{W}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MW01 — Enforce Ideal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MW01 — Enforce Ideal.png"
 	        },
 	        "printed names": {
 	            "en": "MW01 — Enforce Ideal"
@@ -1587,7 +1587,7 @@
 	                "en": "Urban Ideal"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Urban Ideal.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Urban Ideal.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Creature — Human Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MW02 — Winged Adjudicator.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MW02 — Winged Adjudicator.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MW03 — Agrarian Rollout.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MW03 — Agrarian Rollout.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Whale ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MU02 — Cloudgully.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MU02 — Cloudgully.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{4}{U}{U}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MU03 — Roundabout.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MU03 — Roundabout.png"
 	        }
 	    },
 	    {
@@ -1633,7 +1633,7 @@
 	        "mana_cost": "{X}{X}{B}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MB01 — Everlasting Umbrage.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MB01 — Everlasting Umbrage.png"
 	        },
 	        "printed names": {
 	            "en": "MB01 — Everlasting Umbrage"
@@ -1644,7 +1644,7 @@
 	                "en": "Burbling Umbrage"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Burbling Umbrage.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Burbling Umbrage.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1655,7 +1655,7 @@
 	        "mana_cost": "{5}{B}{B}{B}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MB03 — Herald of Anguish.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MB03 — Herald of Anguish.png"
 	        }
 	    },
 	    {
@@ -1663,7 +1663,7 @@
 	        "mana_cost": "{4}{R}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MR01 — Thundering Cataclysm.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MR01 — Thundering Cataclysm.png"
 	        },
 	        "printed names": {
 	            "en": "MR01 — Thundering Cataclysm"
@@ -1674,7 +1674,7 @@
 	                "en": "Castoff Cataclysm"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Castoff Cataclysm.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Castoff Cataclysm.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1685,7 +1685,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MR02 — Crackling Stormbird.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MR02 — Crackling Stormbird.png"
 	        }
 	    },
 	    {
@@ -1694,7 +1694,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MR03 — Forced Feedback.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MR03 — Forced Feedback.png"
 	        }
 	    },
 	    {
@@ -1702,7 +1702,7 @@
 	        "mana_cost": "{X}{G}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MG01 — Disturb the Weald.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MG01 — Disturb the Weald.png"
 	        },
 	        "printed names": {
 	            "en": "MG01 — Disturb the Weald"
@@ -1713,7 +1713,7 @@
 	                "en": "Slumbering Weald"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Slumbering Weald.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Slumbering Weald.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{6}{G}{G}{G}{G}",
 	        "type": "Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MG02 — Crucible Greatwurm.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MG02 — Crucible Greatwurm.png"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MG03 — Rosewind Memorialist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MG03 — Rosewind Memorialist.png"
 	        }
 	    },
 	    {
@@ -1741,7 +1741,7 @@
 	        "mana_cost": "{W}{W}{W}{U}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM01 — Brilliant Insight.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM01 — Brilliant Insight.png"
 	        },
 	        "printed names": {
 	            "en": "RM01 — Brilliant Insight"
@@ -1752,7 +1752,7 @@
 	                "en": "Brilliant Cove"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Brilliant Cove.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Brilliant Cove.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1762,7 +1762,7 @@
 	        "mana_cost": "{U}{U}{U}{B}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM02 — Cathartic Squall.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM02 — Cathartic Squall.png"
 	        },
 	        "printed names": {
 	            "en": "RM02 — Cathartic Squall"
@@ -1773,7 +1773,7 @@
 	                "en": "Cathartic Marsh"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Cathartic Marsh.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Cathartic Marsh.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1783,7 +1783,7 @@
 	        "mana_cost": "{B}{B}{B}{R}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM03 — Smuggler's Secrets.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM03 — Smuggler's Secrets.png"
 	        },
 	        "printed names": {
 	            "en": "RM03 — Smuggler's Secrets"
@@ -1794,7 +1794,7 @@
 	                "en": "Smuggler's Hideaway"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Smuggler's Hideaway.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Smuggler's Hideaway.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1804,7 +1804,7 @@
 	        "mana_cost": "{R}{R}{R}{G}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM04 — Vibrant Chord.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM04 — Vibrant Chord.png"
 	        },
 	        "printed names": {
 	            "en": "RM04 — Vibrant Chord"
@@ -1815,7 +1815,7 @@
 	                "en": "Vibrant Cliffs"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Vibrant Cliffs.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Vibrant Cliffs.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1825,7 +1825,7 @@
 	        "mana_cost": "{G}{G}{G}{W}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM05 — Bountiful Vigil.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM05 — Bountiful Vigil.png"
 	        },
 	        "printed names": {
 	            "en": "RM05 — Bountiful Vigil"
@@ -1836,7 +1836,7 @@
 	                "en": "Bountiful Canopy"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Bountiful Canopy.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Bountiful Canopy.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1846,7 +1846,7 @@
 	        "mana_cost": "{W}{W}{W}{B}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM06 — Tenebrous Oath.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM06 — Tenebrous Oath.png"
 	        },
 	        "printed names": {
 	            "en": "RM06 — Tenebrous Oath"
@@ -1857,7 +1857,7 @@
 	                "en": "Tenebrous Citadel"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Tenebrous Citadel.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Tenebrous Citadel.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1867,7 +1867,7 @@
 	        "mana_cost": "{U}{U}{U}{R}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM07 — Brimming Conduction.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM07 — Brimming Conduction.png"
 	        },
 	        "printed names": {
 	            "en": "RM07 — Brimming Conduction"
@@ -1878,7 +1878,7 @@
 	                "en": "Brimming Pipeworks"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Brimming Pipeworks.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Brimming Pipeworks.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1888,7 +1888,7 @@
 	        "mana_cost": "{B}{B}{B}{G}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM08 — Grim Exchange.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM08 — Grim Exchange.png"
 	        },
 	        "printed names": {
 	            "en": "RM08 — Grim Exchange"
@@ -1899,7 +1899,7 @@
 	                "en": "Grim Cradle"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Grim Cradle.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Grim Cradle.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1909,7 +1909,7 @@
 	        "mana_cost": "{R}{R}{R}{W}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM09 — Burning Apotheosis.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM09 — Burning Apotheosis.png"
 	        },
 	        "printed names": {
 	            "en": "RM09 — Burning Apotheosis"
@@ -1920,7 +1920,7 @@
 	                "en": "Burning Expanse"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Burning Expanse.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Burning Expanse.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1930,7 +1930,7 @@
 	        "mana_cost": "{G}{G}{G}{U}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RM10 — Augmented Clarity.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RM10 — Augmented Clarity.png"
 	        },
 	        "printed names": {
 	            "en": "RM10 — Augmented Clarity"
@@ -1941,7 +1941,7 @@
 	                "en": "Augmented Nursery"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Augmented Nursery.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Augmented Nursery.png"
 	            },
 	            "type": "Land"
 	        }
@@ -1952,7 +1952,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Bird ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA01 — Chromatic Strix.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CA01 — Chromatic Strix.png"
 	        }
 	    },
 	    {
@@ -1961,7 +1961,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA02 — Riveted Sentinel.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CA02 — Riveted Sentinel.png"
 	        }
 	    },
 	    {
@@ -1970,7 +1970,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA05 — Thaumic Saber.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CA05 — Thaumic Saber.png"
 	        }
 	    },
 	    {
@@ -1979,7 +1979,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA04 — Arcane Encylopedia.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UA04 — Arcane Encylopedia.png"
 	        }
 	    },
 	    {
@@ -1988,7 +1988,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA03 — Primed Boomrod.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UA03 — Primed Boomrod.png"
 	        }
 	    },
 	    {
@@ -1997,7 +1997,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA02 — Automated Warplow.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UA02 — Automated Warplow.png"
 	        }
 	    },
 	    {
@@ -2006,7 +2006,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Artifact Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RA01 — Voltaic Hellkite.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RA01 — Voltaic Hellkite.png"
 	        }
 	    },
 	    {
@@ -2015,7 +2015,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RA02 — Resonant Spellblade.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RA02 — Resonant Spellblade.png"
 	        }
 	    },
 	    {
@@ -2024,7 +2024,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RA03 — Apocalypse Spire.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RA03 — Apocalypse Spire.png"
 	        }
 	    },
 	    {
@@ -2033,7 +2033,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RL01 — Heart of Undaum.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RL01 — Heart of Undaum.png"
 	        }
 	    },
 	    {
@@ -2042,7 +2042,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Plains.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Plains.png"
 	        }
 	    },
 	    {
@@ -2051,7 +2051,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Island.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Island.png"
 	        }
 	    },
 	    {
@@ -2060,7 +2060,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Swamp.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -2069,7 +2069,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Mountain.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -2078,7 +2078,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Forest.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Forest.png"
 	        }
 	    },
 	    {
@@ -2087,7 +2087,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Creature — Human Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX04 — Enos, Multaen Futurist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MX04 — Enos, Multaen Futurist.png"
 	        }
 	    },
 	    {
@@ -2096,7 +2096,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Legendary Planeswalker — Helis ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX01 — Helis Aurim.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MX01 — Helis Aurim.png"
 	        }
 	    },
 	    {
@@ -2105,7 +2105,7 @@
 	        "mana_cost": "{0}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA03 — Arcane Cartography.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CA03 — Arcane Cartography.png"
 	        }
 	    },
 	    {
@@ -2114,7 +2114,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CL01 — Radiant Fountain.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CL01 — Radiant Fountain.png"
 	        }
 	    },
 	    {
@@ -2123,7 +2123,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB01 — Arrogant Magistocrat.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB01 — Arrogant Magistocrat.png"
 	        }
 	    },
 	    {
@@ -2132,7 +2132,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB02 — Canal Sleuth.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB02 — Canal Sleuth.png"
 	        }
 	    },
 	    {
@@ -2141,7 +2141,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU19 — Cerebral Stimulus.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU19 — Cerebral Stimulus.png"
 	        }
 	    },
 	    {
@@ -2150,7 +2150,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR19 — Universal Dynamism.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR19 — Universal Dynamism.png"
 	        }
 	    },
 	    {
@@ -2159,7 +2159,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG19 — Promising Growth.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG19 — Promising Growth.png"
 	        }
 	    },
 	    {
@@ -2168,7 +2168,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CW19 — Auric Stratagem.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CW19 — Auric Stratagem.png"
 	        }
 	    },
 	    {
@@ -2177,7 +2177,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UL01 — Magister Academy.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UL01 — Magister Academy.png"
 	        }
 	    },
 	    {
@@ -2186,7 +2186,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR05 — Multaeus Invoker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR05 — Multaeus Invoker.png"
 	        }
 	    },
 	    {
@@ -2195,7 +2195,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CG05 — Feram Invoker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CG05 — Feram Invoker.png"
 	        }
 	    },
 	    {
@@ -2203,7 +2203,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW04 — Sigiled Riposte.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW04 — Sigiled Riposte.png"
 	        },
 	        "printed names": {
 	            "en": "UW04 — Sigiled Riposte"
@@ -2214,7 +2214,7 @@
 	                "en": "Sigled Battlement"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Sigled Battlement.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Sigled Battlement.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2224,7 +2224,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW02 — Storied Justice.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW02 — Storied Justice.png"
 	        },
 	        "printed names": {
 	            "en": "UW02 — Storied Justice"
@@ -2235,7 +2235,7 @@
 	                "en": "Storied Halls"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Storied Halls.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Storied Halls.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2245,7 +2245,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW01 — Duskwold Veteran.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW01 — Duskwold Veteran.png"
 	        },
 	        "printed names": {
 	            "en": "UW01 — Duskwold Veteran"
@@ -2256,7 +2256,7 @@
 	                "en": "Duskwold Scrubland"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Duskwold Scrubland.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Duskwold Scrubland.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2266,7 +2266,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Leviathan ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU01 — Anatokos Sentinel.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU01 — Anatokos Sentinel.png"
 	        },
 	        "printed names": {
 	            "en": "UU01 — Anatokos Sentinel"
@@ -2277,7 +2277,7 @@
 	                "en": "Anatokos Monument"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Anatokos Monument.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Anatokos Monument.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2287,7 +2287,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU02 — Brackish Retort.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU02 — Brackish Retort.png"
 	        },
 	        "printed names": {
 	            "en": "UU02 — Brackish Retort"
@@ -2298,7 +2298,7 @@
 	                "en": "Brackish Coastline"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Brackish Coastline.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Brackish Coastline.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2308,7 +2308,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB04 — Sleuth's Cunning.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB04 — Sleuth's Cunning.png"
 	        },
 	        "printed names": {
 	            "en": "UB04 — Sleuth's Cunning"
@@ -2319,7 +2319,7 @@
 	                "en": "Sleuth's Hideout"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Sleuth's Hideout.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Sleuth's Hideout.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2329,7 +2329,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB03 — Malignant End.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB03 — Malignant End.png"
 	        },
 	        "printed names": {
 	            "en": "UB03 — Malignant End"
@@ -2340,7 +2340,7 @@
 	                "en": "Malignant Sump"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Malignant Sump.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Malignant Sump.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2350,7 +2350,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG02 — Rosewind Boon.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG02 — Rosewind Boon.png"
 	        },
 	        "printed names": {
 	            "en": "UG02 — Rosewind Boon"
@@ -2361,7 +2361,7 @@
 	                "en": "Rosewind Estate"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Rosewind Estate.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Rosewind Estate.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2371,7 +2371,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR03 — Toilfield Expedition.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR03 — Toilfield Expedition.png"
 	        },
 	        "printed names": {
 	            "en": "UR03 — Toilfield Expedition"
@@ -2382,7 +2382,7 @@
 	                "en": "Toilfield Caldera"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Toilfield Caldera.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Toilfield Caldera.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2392,7 +2392,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG01 — Thorncrest Mauler.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG01 — Thorncrest Mauler.png"
 	        },
 	        "printed names": {
 	            "en": "UG01 — Thorncrest Mauler"
@@ -2403,7 +2403,7 @@
 	                "en": "Thorncrest Lodge"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Thorncrest Lodge.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Thorncrest Lodge.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2414,7 +2414,7 @@
 	        "mana_cost": "{4}{G}{U}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX05 — Murai, Bioarcanist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MX05 — Murai, Bioarcanist.png"
 	        }
 	    },
 	    {
@@ -2423,7 +2423,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Legendary Planeswalker — Lettie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX03 — Wormwood, the Scholar.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MX03 — Wormwood, the Scholar.png"
 	        }
 	    },
 	    {
@@ -2432,7 +2432,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MX02 — Odisa, Fierce Conduit.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MX02 — Odisa, Fierce Conduit.png"
 	        }
 	    },
 	    {
@@ -2441,7 +2441,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB10 — Final Flickering.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB10 — Final Flickering.png"
 	        }
 	    },
 	    {
@@ -2449,7 +2449,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Manticore ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR01 — Bristling Manticore.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR01 — Bristling Manticore.png"
 	        },
 	        "printed names": {
 	            "en": "UR01 — Bristling Manticore"
@@ -2460,7 +2460,7 @@
 	                "en": "Bristling Cliffs"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Bristling Cliffs.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Bristling Cliffs.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2470,7 +2470,7 @@
 	        "mana_cost": "{3}{W}{W}{W}",
 	        "type": "Creature — Human Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RW01 — Luminous Sovereign.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RW01 — Luminous Sovereign.png"
 	        },
 	        "printed names": {
 	            "en": "RW01 — Luminous Sovereign"
@@ -2481,7 +2481,7 @@
 	                "en": "Luminous Archive"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Luminous Archive.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Luminous Archive.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2491,7 +2491,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Wall ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU04 — Boreal Barrier.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU04 — Boreal Barrier.png"
 	        },
 	        "printed names": {
 	            "en": "UU04 — Boreal Barrier"
@@ -2502,7 +2502,7 @@
 	                "en": "Boreal Expanse"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Boreal Expanse.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Boreal Expanse.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2512,7 +2512,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB01 — Aberrant Existence.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB01 — Aberrant Existence.png"
 	        },
 	        "printed names": {
 	            "en": "RB01 — Aberrant Existence"
@@ -2523,7 +2523,7 @@
 	                "en": "Aberrant Tower"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Aberrant Tower.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Aberrant Tower.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2533,7 +2533,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB01 — Farseri Scavenger.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB01 — Farseri Scavenger.png"
 	        },
 	        "printed names": {
 	            "en": "UB01 — Farseri Scavenger"
@@ -2544,7 +2544,7 @@
 	                "en": "Farseri Bog"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Farseri Bog.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Farseri Bog.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2554,7 +2554,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR01 — Energetic Blockbuster.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR01 — Energetic Blockbuster.png"
 	        },
 	        "printed names": {
 	            "en": "RR01 — Energetic Blockbuster"
@@ -2565,7 +2565,7 @@
 	                "en": "Energetic Array"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Energetic Array.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Energetic Array.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2575,7 +2575,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR02 — Faultline Testing.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR02 — Faultline Testing.png"
 	        },
 	        "printed names": {
 	            "en": "UR02 — Faultline Testing"
@@ -2586,7 +2586,7 @@
 	                "en": "Faultline Gorge"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Faultline Gorge.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Faultline Gorge.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2596,7 +2596,7 @@
 	        "mana_cost": "{4}{U}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MU01 — Ponder Eternity.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MU01 — Ponder Eternity.png"
 	        },
 	        "printed names": {
 	            "en": "MU01 — Ponder Eternity"
@@ -2607,7 +2607,7 @@
 	                "en": "Captured Eternity"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Captured Eternity.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Captured Eternity.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2618,7 +2618,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU18 — Reconsider.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU18 — Reconsider.png"
 	        }
 	    },
 	    {
@@ -2627,7 +2627,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Creature — Human Angel Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM01 — Empyrean Strategist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM01 — Empyrean Strategist.png"
 	        }
 	    },
 	    {
@@ -2636,7 +2636,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Creature — Human Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM02 — Basilica Archivist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM02 — Basilica Archivist.png"
 	        }
 	    },
 	    {
@@ -2645,7 +2645,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM03 — Mageblade Striker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM03 — Mageblade Striker.png"
 	        }
 	    },
 	    {
@@ -2654,7 +2654,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM04 — Scorched Lavawheel.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM04 — Scorched Lavawheel.png"
 	        }
 	    },
 	    {
@@ -2663,7 +2663,7 @@
 	        "mana_cost": "{4}{G}{W}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM05 — Natural Guardian.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM05 — Natural Guardian.png"
 	        }
 	    },
 	    {
@@ -2672,7 +2672,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Human Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM06 — Duskwold Persecutor.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM06 — Duskwold Persecutor.png"
 	        }
 	    },
 	    {
@@ -2681,7 +2681,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM07 — Reckless Enthusiam.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM07 — Reckless Enthusiam.png"
 	        }
 	    },
 	    {
@@ -2690,7 +2690,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM08 — Shadow Patron.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM08 — Shadow Patron.png"
 	        }
 	    },
 	    {
@@ -2699,7 +2699,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Creatures — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM09 — Castoff Sentinel.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM09 — Castoff Sentinel.png"
 	        }
 	    },
 	    {
@@ -2708,7 +2708,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UM10 — Lifepath Renegade.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UM10 — Lifepath Renegade.png"
 	        }
 	    },
 	    {
@@ -2717,7 +2717,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU10 — Reconstitute.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU10 — Reconstitute.png"
 	        }
 	    },
 	    {
@@ -2726,7 +2726,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR06 — Toilfield Stoker.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR06 — Toilfield Stoker.png"
 	        }
 	    },
 	    {
@@ -2735,7 +2735,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR18 — Conscript.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR18 — Conscript.png"
 	        }
 	    },
 	    {
@@ -2744,7 +2744,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CR17 — Galvanic Rebuttal.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CR17 — Galvanic Rebuttal.png"
 	        }
 	    },
 	    {
@@ -2753,7 +2753,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW14 — Ascendant Path.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW14 — Ascendant Path.png"
 	        }
 	    },
 	    {
@@ -2762,7 +2762,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU14 — Aerodynamics.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU14 — Aerodynamics.png"
 	        }
 	    },
 	    {
@@ -2771,7 +2771,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB15 — Abstraction of Pride.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB15 — Abstraction of Pride.png"
 	        }
 	    },
 	    {
@@ -2780,7 +2780,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG15 — Abstraction of Self.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG15 — Abstraction of Self.png"
 	        }
 	    },
 	    {
@@ -2789,7 +2789,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU10 — Skyward Abjurant.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU10 — Skyward Abjurant.png"
 	        }
 	    },
 	    {
@@ -2798,7 +2798,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CU04 — Aqueous Shaper.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CU04 — Aqueous Shaper.png"
 	        }
 	    },
 	    {
@@ -2807,7 +2807,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UW15 — Abstraction of Glory.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UW15 — Abstraction of Glory.png"
 	        }
 	    },
 	    {
@@ -2816,7 +2816,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU15 — Abstraction of Reason.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU15 — Abstraction of Reason.png"
 	        }
 	    },
 	    {
@@ -2825,7 +2825,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UB14 — Will to Power.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UB14 — Will to Power.png"
 	        }
 	    },
 	    {
@@ -2834,7 +2834,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG14 — Captured Recollection.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG14 — Captured Recollection.png"
 	        }
 	    },
 	    {
@@ -2843,7 +2843,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR15 — Abstraction of Desire.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR15 — Abstraction of Desire.png"
 	        }
 	    },
 	    {
@@ -2852,7 +2852,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB13 — Political Maneuver.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB13 — Political Maneuver.png"
 	        }
 	    },
 	    {
@@ -2861,7 +2861,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB12 — Into the Abyss.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB12 — Into the Abyss.png"
 	        }
 	    },
 	    {
@@ -2870,7 +2870,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/MB02 — Thirteenth Columnist.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/MB02 — Thirteenth Columnist.png"
 	        }
 	    },
 	    {
@@ -2879,7 +2879,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB11 — Discorporate.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB11 — Discorporate.png"
 	        }
 	    },
 	    {
@@ -2888,7 +2888,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB18 — Duress.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB18 — Duress.png"
 	        }
 	    },
 	    {
@@ -2897,7 +2897,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CA04 — Glove of Evocation.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CA04 — Glove of Evocation.png"
 	        }
 	    },
 	    {
@@ -2906,7 +2906,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR14 — Ignite Possibility.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR14 — Ignite Possibility.png"
 	        }
 	    },
 	    {
@@ -2915,7 +2915,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/CB19 — Hazardous Research.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/CB19 — Hazardous Research.png"
 	        }
 	    },
 	    {
@@ -2923,7 +2923,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG03 — Cantabar Resurgence.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG03 — Cantabar Resurgence.png"
 	        },
 	        "printed names": {
 	            "en": "UG03 — Cantabar Resurgence"
@@ -2934,7 +2934,7 @@
 	                "en": "Cantabar Overgrowth"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Cantabar Overgrowth.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Cantabar Overgrowth.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2944,7 +2944,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UG04 — Vermur Thrash.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UG04 — Vermur Thrash.png"
 	        },
 	        "printed names": {
 	            "en": "UG04 — Vermur Thrash"
@@ -2955,7 +2955,7 @@
 	                "en": "Vermur Clearing"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Vermur Clearing.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Vermur Clearing.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2965,7 +2965,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR04 — Procula Sabotage.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR04 — Procula Sabotage.png"
 	        },
 	        "printed names": {
 	            "en": "UR04 — Procula Sabotage"
@@ -2976,7 +2976,7 @@
 	                "en": "Procula Quarter"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/Procula Quarter.jpg"
+	                "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/Procula Quarter.png"
 	            },
 	            "type": "Land"
 	        }
@@ -2987,7 +2987,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UR06 — Orders Received.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UR06 — Orders Received.png"
 	        }
 	    },
 	    {
@@ -2996,7 +2996,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU13 — Decipher.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU13 — Decipher.png"
 	        }
 	    },
 	    {
@@ -3005,7 +3005,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Legendary Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR04 — Esther, Mageblade Lieutenant.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR04 — Esther, Mageblade Lieutenant.png"
 	        }
 	    },
 	    {
@@ -3014,7 +3014,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UU11 — Thaumic Expulsion.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UU11 — Thaumic Expulsion.png"
 	        }
 	    },
 	    {
@@ -3023,7 +3023,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RR05 — Egoling.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RR05 — Egoling.png"
 	        }
 	    },
 	    {
@@ -3032,7 +3032,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/RB04 — Duskwold Spellcutter.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/RB04 — Duskwold Spellcutter.png"
 	        }
 	    },
 	    {
@@ -3041,7 +3041,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/udmv1c-files/UA01 — Stinger Simulacra.jpg"
+	            "en": "https://raw.githubusercontent.com/nskjellum/UDM/main/UDMV1C-files/UA01 — Stinger Simulacra.png"
 	        }
 	    }
 	]
